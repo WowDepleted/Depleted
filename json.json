@@ -1,11 +1,11 @@
 {
-   "Bod":{
+   "bod":{
       "RaidRealName":"Bataille Of Dazar'alor",
-      "RaidPic":"bod.jpg",
+      "Picture":"bod.jpg",
       "Boss":[
          {
             "BossRealName":"Champuinne de la lumière",
-            "BossPicture":"championne.jpg",
+            "Picture":"championne.jpg",
             "Strat":[
                {
                   "CatName":"1ere catégorie",
@@ -21,7 +21,7 @@
          },
          {
             "BossRealName":"Gronk",
-            "BossPicture":"gronk.jpg",
+            "Picture":"gronk.jpg",
             "Strat":[
                {
                   "CatName":"Le Gros Singe",
@@ -37,13 +37,13 @@
          }
       ]
    },
-   "sanctuBizard":{
+   "sanctu":{
       "RaidRealName":"Sanctuaire",
-      "RaidPic":"sanct.jpg",
+      "Picture":"sanctu.jpg",
       "Boss":[
          {
             "BossRealName":"truc Bizar 1",
-            "BossPicture":"truc1.jpg",
+            "Picture":"truc1.jpg",
             "Strat":[
                {
                   "CatName":"1ere catégorie",
@@ -59,7 +59,7 @@
          },
          {
             "BossRealName":"Truc encore plus space",
-            "BossPicture":"gronk.jpg",
+            "Picture":"gronk.jpg",
             "Strat":[
                {
                   "CatName":"machin",
