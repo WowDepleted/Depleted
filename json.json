@@ -40,21 +40,39 @@
    "sanctuBizard":{
       "RaidRealName":"Sanctuaire",
       "RaidPic":"sanct.jpg",
-      "Boss":{
-         "BossRealName":"truc 1",
-         "BossPicture":"truc1.jpg",
-         "Strat":[
-            {
-               "CatName":"1ere catégorie",
-               "Text":"le dawa",
-               "Picture":"p1.jjg"
-            },
-            {
-               "CatName":"le gros dawa",
-               "Text":"dawa avec des items",
-               "Picture":""
-            }
-         ]
-      }
+      "Boss":[
+         {
+            "BossRealName":"truc Bizar 1",
+            "BossPicture":"truc1.jpg",
+            "Strat":[
+               {
+                  "CatName":"1ere catégorie",
+                  "Text":"des items en raid ?",
+                  "Picture":"p1.jjg"
+               },
+               {
+                  "CatName":"un oss boss",
+                  "Text":"Un tank distant",
+                  "Picture":""
+               }
+            ]
+         },
+         {
+            "BossRealName":"Truc encore plus space",
+            "BossPicture":"gronk.jpg",
+            "Strat":[
+               {
+                  "CatName":"machin",
+                  "Text":"machin qui tape",
+                  "Picture":"p1.jjg"
+               },
+               {
+                  "CatName":"DAWA",
+                  "Text":"LE Dawa",
+                  "Picture":""
+               }
+            ]
+         }
+      ]
    }
 }
