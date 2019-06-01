@@ -38,20 +38,20 @@
       ]
    },
    "sanctuBizard":{
-      "RaidRealName":"Bataille Of Dazar'alor",
-      "RaidPic":"bod.jpg",
+      "RaidRealName":"Sanctuaire",
+      "RaidPic":"sanct.jpg",
       "Boss":{
-         "BossRealName":"Champuinne de la lumière",
-         "BossPicture":"championne.jpg",
+         "BossRealName":"truc 1",
+         "BossPicture":"truc1.jpg",
          "Strat":[
             {
                "CatName":"1ere catégorie",
-               "Text":"le boss championne se déroule en 3 phases",
+               "Text":"le dawa",
                "Picture":"p1.jjg"
             },
             {
-               "CatName":"J'aime le chocolat",
-               "Text":"Il me faut du text",
+               "CatName":"le gros dawa",
+               "Text":"dawa avec des items",
                "Picture":""
             }
          ]
