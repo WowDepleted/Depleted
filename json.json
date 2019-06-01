@@ -1,42 +1,60 @@
 {
-	"Bod":{
-		"RaidRealName":"Bataille Of Dazar'alor",
-		"RaidPic":"bod.jpg",
-		"championne":{
-			"BossRealName":"Champuinne de la lumière",
-			"BossPicture":"championne.jpg",
-			"Strat":[
-				{
-					"CatName":"1ere catégorie",
-					"Text":"le boss championne se déroule en 3 phases",
-					"Picture":"p1.jjg"
-				},
-				{
-					"CatName":"J'aime le chocolat",
-					"Text":"Il me faut du text",
-					"Picture":""
-				}
-			]
-		}
-	},
-	"Bod":{
-		"RaidRealName":"Bataille Of Dazar'alor",
-		"RaidPic":"bod.jpg",
-		"championne":{
-			"BossRealName":"Champuinne de la lumière",
-			"BossPicture":"championne.jpg",
-			"Strat":[
-				{
-					"CatName":"1ere catégorie",
-					"Text":"le boss championne se déroule en 3 phases",
-					"Picture":"p1.jjg"
-				},
-				{
-					"CatName":"J'aime le chocolat",
-					"Text":"Il me faut du text",
-					"Picture":""
-				}
-			]
-		}
-	}
+   "Bod":{
+      "RaidRealName":"Bataille Of Dazar'alor",
+      "RaidPic":"bod.jpg",
+      "Boss":[
+         {
+            "BossRealName":"Champuinne de la lumière",
+            "BossPicture":"championne.jpg",
+            "Strat":[
+               {
+                  "CatName":"1ere catégorie",
+                  "Text":"le boss championne se déroule en 3 phases",
+                  "Picture":"p1.jjg"
+               },
+               {
+                  "CatName":"J'aime le chocolat",
+                  "Text":"Il me faut du text",
+                  "Picture":""
+               }
+            ]
+         },
+         {
+            "BossRealName":"Gronk",
+            "BossPicture":"gronk.jpg",
+            "Strat":[
+               {
+                  "CatName":"Le Gros Singe",
+                  "Text":"singe qui tape",
+                  "Picture":"p1.jjg"
+               },
+               {
+                  "CatName":"J'aime les kiwis",
+                  "Text":"Il me faut plus de text",
+                  "Picture":""
+               }
+            ]
+         }
+      ]
+   },
+   "sanctuBizard":{
+      "RaidRealName":"Bataille Of Dazar'alor",
+      "RaidPic":"bod.jpg",
+      "Boss":{
+         "BossRealName":"Champuinne de la lumière",
+         "BossPicture":"championne.jpg",
+         "Strat":[
+            {
+               "CatName":"1ere catégorie",
+               "Text":"le boss championne se déroule en 3 phases",
+               "Picture":"p1.jjg"
+            },
+            {
+               "CatName":"J'aime le chocolat",
+               "Text":"Il me faut du text",
+               "Picture":""
+            }
+         ]
+      }
+   }
 }
