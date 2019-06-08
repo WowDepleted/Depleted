@@ -129,7 +129,7 @@ function generateStratPage(data,raidName,bossName){
 					.append(partie["Text"]);
 		var divContent = divCatContent.clone();
 		if(partie["Pos"] === "left"){
-			divCatContent.attr("class","leftPicture");
+			divContent.attr("class","leftPicture");
 		}
 					
 					
