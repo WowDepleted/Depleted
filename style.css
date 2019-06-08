@@ -93,3 +93,22 @@ a{
 	margin-bottom:5px;
 	box-shadow: 1px 1px 5px #888888;
 }
+
+#strat-main{
+	padding: 15px;
+}
+
+#strat-header{
+	display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#strat-header > div{
+	font-size: 3em;
+    width: 100%;
+}
+
+#strat-header > img{
+	height: 250px;
+}

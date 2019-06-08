@@ -11,7 +11,6 @@ function cleanPage(){
 
 function getCurrentPage(){
 	var url = window.location.href;
-	console.log(url);
 	if (url.indexOf('#') == -1) {
 		return "index";
 	}
@@ -86,28 +85,66 @@ function generateIndexPage(data, isRaid=""){
 	});
 }
 
-function generateRaidPage(data){
+function generateStratPage(data,raidName,bossName){
 	var divMainContent=$("#main-content");
-	var gallery = $("<div/>").attr("id","gallery");
-	divMainContent.append(gallery);
-	var contentBox = $("<a/>").click(reloadPage);
-	var name = $("<div/>") ;
-	var picture = $("<img/>");
-	$.each( data, function( raid, raidData ) {
-		var path = "./resources/"+raid+"/"+raidData["Picture"]
-		var raidPicture = picture.clone().attr("src",path);
-		var raidName = raidData["RaidRealName"];
-		var currentBox = contentBox.clone()
-							.append(raidPicture)
-							.append(raidName);
-		currentBox.attr("href","#raid="+raid);
-		gallery.append(currentBox);
+	var divMainStrat = $("<div/>").attr("id","strat-main");
+	var divHeader = $("<div/>").attr("id","strat-header");
+	var divStrat = $("<div/>").attr("id","strat");
+	divMainContent.append(divMainStrat);
+	divMainStrat.append(divHeader)
+				.append(divStrat);
+
+	var divCatName = $("<div/>").attr("class","cat-title");
+	var divCatContent = $("<div/>").attr("class","cat-content");
+	var divCatImage = $("<img/>");
+	
+	
+		
+	var bossRealName = "";
+	var bossPicture = "./resources/"+raid+"/"+bossName+"/";
+	$.each( data[raidName]["Boss"], function( boss, bossData ) {
+		if(bossData["BossCode"] === bossName){
+			bossRealName = bossData["BossRealName"];
+			bossPicture+= bossData["Picture"];
+		}
+	});
+	var divHeaderTitle = $("<div/>").append(bossRealName);
+	var divHeaderImage = $("<img/>").attr("src",bossPicture);
+	divHeader.append(divHeaderTitle)
+			 .append(divHeaderImage);
+	
+	var raidData = data[raidName];
+	var stratData;
+	$.each( raidData["Boss"], function( boss, bossData ) {
+		if(bossData["BossCode"] == bossName){
+			stratData = bossData["Strat"];
+		}
+	});
+	
+	
+	
+	$.each(stratData, function( index, partie ) {
+		var divName = divCatName.clone()
+					.append(partie["CatName"]);
+		var divContent = divCatContent.clone()
+					.append(partie["Text"]);
+					
+		var path = "./resources/"+raidName+"/"+bossName+"/"+partie["Picture"];
+		var divImage = divCatImage.clone()
+					.attr("src",path);
+		
+		
+		divStrat.append(divName)
+		        .append(divContent);
+		if(partie["Picture"].length > 0){
+			divStrat.append(divImage);
+		}
 	});
 }
 
+
 function generatePageFromJson(menu=true){
 	var pageName = getCurrentPage()
-	console.log(pageName);
 	$.getJSON( jsonLink, function( data ) {
 		if(menu)
 			generateMenu(data);
@@ -118,7 +155,9 @@ function generatePageFromJson(menu=true){
 			generateIndexPage(data,pageName);
 		}
 		else{
-			console.log("TODO: boss strat page");
+			raid = pageName.split("&")[0];
+			boss = pageName.split("&")[1];
+			generateStratPage(data,raid,boss);
 		}
 	});
 }
