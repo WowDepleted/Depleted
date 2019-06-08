@@ -4,7 +4,7 @@
       "Picture":"bod.jpg",
       "Boss":[
          {
-			"BossCode":"champ",
+			"BossCode":"championne",
             "BossRealName":"Championne de la lumière",
             "Picture":"championne.jpg",
             "Strat":[
@@ -61,9 +61,9 @@
             ]
          },
          {
-			"BossCode":"bidule",
+			"BossCode":"uunat",
             "BossRealName":"Truc encore plus space",
-            "Picture":"gronk.jpg",
+            "Picture":"uunat.jpg",
             "Strat":[
                {
                   "CatName":"machin",
