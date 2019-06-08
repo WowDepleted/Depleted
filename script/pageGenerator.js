@@ -14,21 +14,31 @@ function generateMenu(data){
 		li.append(tagDropbtn.clone())
 		li.append(tagDropdownContent.clone());
 		var dropdown = li.find("div");
-		
-		console.log(val["Boss"]);
 		$.each( val["Boss"], function( boss, bossValues ) {
 			dropdown.append("<a href=\"#\">"+bossValues["BossRealName"]+"</a>");
 		});
 	});
 }
 
-function generateIndexPage(data){}
+function generateIndexPage(data){
+	var divMainContent=$("#main-content");
+	var gallery = $("<div/>").attr("id","gallery");
+	divMainContent.append(gallery);
+	var contentBox = $("<div/>");
+	var name = $("<div/>") ;
+	var picture = $("<img/>");
+	$.each( data, function( raid, raidData ) {
+		var path = "./resources/"+raid+"/"+raidData["Picture"]
+		var raidPicture = picture.clone().attr("src",path);
+		var raidName = raidData["RaidRealName"];
+		var currentBox = contentBox.clone()
+							.append(raidPicture)
+							.append(raidName);
+		gallery.append(currentBox);
+	});
+}
 
 function generatePageFromJson(){
-	var divMainContent=$("#main-content");
-	
-	console.log(divMainContent);
-	
 	var jsonLink = "https://raw.githubusercontent.com/WowDepleted/Depleted/master/json.json"
 	
 	$.getJSON( jsonLink, function( data ) {

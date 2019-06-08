@@ -1,3 +1,10 @@
+body{
+	max-width:1200px;
+	margin-right:auto;
+	margin-left:auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
 #navigation-menu ul {
   list-style-type: none;
   margin: 0;
@@ -47,4 +54,37 @@
 
 #navigation-menu .dropdown:hover .dropdown-content {
   display: block;
+}
+
+#main-content {
+	width:100%;
+	background-color:#dddddd;
+	min-height:200px;
+	margin-top: 20px;
+}
+
+#main-content > #gallery{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+	padding:20px;
+}
+
+#main-content > #gallery > div{
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    text-align: center;
+	border-radius:20px;
+}
+
+#main-content > #gallery > div:hover{
+	background-color:rgba(0,0,0,0.3);
+}
+
+#main-content > #gallery > div > img{
+	height: 300px;
+	border-radius:20px;
+	margin-bottom:5px;
 }
