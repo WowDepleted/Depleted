@@ -112,3 +112,19 @@ a{
 #strat-header > img{
 	height: 250px;
 }
+
+#strat > .cat-title{
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #666666;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+#strat > .cat-content{
+    display: flex;
+}
+
+#strat > .cat-text{
+    width:100%;
+}

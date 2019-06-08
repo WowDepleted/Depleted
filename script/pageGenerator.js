@@ -93,13 +93,7 @@ function generateStratPage(data,raidName,bossName){
 	divMainContent.append(divMainStrat);
 	divMainStrat.append(divHeader)
 				.append(divStrat);
-
-	var divCatName = $("<div/>").attr("class","cat-title");
-	var divCatContent = $("<div/>").attr("class","cat-content");
-	var divCatImage = $("<img/>");
-	
-	
-		
+				
 	var bossRealName = "";
 	var bossPicture = "./resources/"+raid+"/"+bossName+"/";
 	$.each( data[raidName]["Boss"], function( boss, bossData ) {
@@ -111,7 +105,7 @@ function generateStratPage(data,raidName,bossName){
 	var divHeaderTitle = $("<div/>").append(bossRealName);
 	var divHeaderImage = $("<img/>").attr("src",bossPicture);
 	divHeader.append(divHeaderTitle)
-			 .append(divHeaderImage);
+			 .append(divHeaderImage);			
 	
 	var raidData = data[raidName];
 	var stratData;
@@ -121,24 +115,29 @@ function generateStratPage(data,raidName,bossName){
 		}
 	});
 	
-	
+	var divCatName = $("<div/>").attr("class","cat-title");
+	var divCatContent = $("<div/>").attr("class","cat-content");
+	var divCatText = $("<div/>").attr("class","cat-text");
+	var divCatImage = $("<img/>");
 	
 	$.each(stratData, function( index, partie ) {
 		var divName = divCatName.clone()
 					.append(partie["CatName"]);
-		var divContent = divCatContent.clone()
+		var divText = divCatText.clone()
 					.append(partie["Text"]);
+		var divContent = divCatContent.clone();
+					
 					
 		var path = "./resources/"+raidName+"/"+bossName+"/"+partie["Picture"];
 		var divImage = divCatImage.clone()
 					.attr("src",path);
 		
-		
+		divContent.append(divText);
+		if(partie["Picture"].length > 0){
+			divContent.append(divImage);
+		}
 		divStrat.append(divName)
 		        .append(divContent);
-		if(partie["Picture"].length > 0){
-			divStrat.append(divImage);
-		}
 	});
 }
 
