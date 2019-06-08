@@ -4,7 +4,8 @@
       "Picture":"bod.jpg",
       "Boss":[
          {
-            "BossRealName":"Champuinne de la lumière",
+			"BossCode":"champ",
+            "BossRealName":"Championne de la lumière",
             "Picture":"championne.jpg",
             "Strat":[
                {
@@ -20,6 +21,7 @@
             ]
          },
          {
+			"BossCode":"gronk",
             "BossRealName":"Gronk",
             "Picture":"gronk.jpg",
             "Strat":[
@@ -42,6 +44,7 @@
       "Picture":"sanctu.jpg",
       "Boss":[
          {
+			"BossCode":"heuuu",
             "BossRealName":"truc Bizar 1",
             "Picture":"truc1.jpg",
             "Strat":[
@@ -58,6 +61,7 @@
             ]
          },
          {
+			"BossCode":"bidule",
             "BossRealName":"Truc encore plus space",
             "Picture":"gronk.jpg",
             "Strat":[

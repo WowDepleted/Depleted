@@ -5,6 +5,11 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
+a{
+	text-decoration: none;
+	color:black;
+}
+
 #navigation-menu ul {
   list-style-type: none;
   margin: 0;
@@ -22,7 +27,6 @@ body{
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
 }
 
 #navigation-menu li a:hover,#navigation-menu  .dropdown:hover .dropbtn {
@@ -71,7 +75,7 @@ body{
 	padding:20px;
 }
 
-#main-content > #gallery > div{
+#main-content > #gallery > a{
     display: flex;
     flex-direction: column;
     padding: 1%;
@@ -79,12 +83,13 @@ body{
 	border-radius:20px;
 }
 
-#main-content > #gallery > div:hover{
+#main-content > #gallery > a:hover{
 	background-color:rgba(0,0,0,0.3);
 }
 
-#main-content > #gallery > div > img{
+#main-content > #gallery > a > img{
 	height: 300px;
 	border-radius:20px;
 	margin-bottom:5px;
+	box-shadow: 1px 1px 5px #888888;
 }
