@@ -140,6 +140,10 @@ a{
     display: flex;
 }
 
+#strat > .cat-content.leftPicture{
+    flex-direction: row-reverse;
+}
+
 #strat > .cat-content > .cat-text{
     width:100%;
 	font-size:1.1em;

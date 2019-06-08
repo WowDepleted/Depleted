@@ -128,6 +128,9 @@ function generateStratPage(data,raidName,bossName){
 		var divText = divCatText.clone()
 					.append(partie["Text"]);
 		var divContent = divCatContent.clone();
+		if(partie["Pos"] === "left"){
+			divCatContent.attr("class",leftPicture);
+		}
 					
 					
 		var path = "./resources/"+raidName+"/"+bossName+"/"+partie["Picture"];
