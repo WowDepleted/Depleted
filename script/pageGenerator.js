@@ -33,13 +33,15 @@ function generateMenu(data){
 	var tagDropdownContent = $("<div/>").addClass("dropdown-content");
 	
 	var divMainMenu=$("#navigation-menu");
-	divMainMenu.append("<ul></ul>");
+	var logo = "<a href=\"#\"><img src=\"./resources/depleted.png\"/></a>";
+	divMainMenu.append("<ul><li>"+logo+"</li></ul>");
 	var ul = divMainMenu.find("ul");
 	$.each( data, function( raid, raidData ) {
 		ul.append(tagDropdown.clone());
 		var li = ul.find("li").last();
 		
 		tagDropbtn.html(raidData["RaidRealName"]);
+		tagDropbtn.attr("href","#raid="+raid);
 		li.append(tagDropbtn.clone())
 		li.append(tagDropdownContent.clone());
 		var dropdown = li.find("div");
