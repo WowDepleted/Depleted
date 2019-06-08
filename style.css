@@ -127,4 +127,9 @@ a{
 
 #strat > .cat-content > .cat-text{
     width:100%;
+	font-size:1.1em;
+}
+
+#strat > .cat-content > .cat-text > .icon{
+    height:25px;
 }
