@@ -3,11 +3,12 @@ body{
 	margin-right:auto;
 	margin-left:auto;
 	font-family: 'Open Sans', sans-serif;
+	color:#EEEEEE;
 }
 
 a{
 	text-decoration: none;
-	color:black;
+	color:#EEEEEE;
 }
 
 #navigation-menu ul {
@@ -16,6 +17,16 @@ a{
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  height:50px;
+}
+
+#navigation-menu li:first-child > a > img{
+	height: 50px;
+}
+
+#navigation-menu li:first-child > a{
+	margin:0px;
+	padding:0px;
 }
 
 #navigation-menu li {
@@ -65,6 +76,7 @@ a{
 	background-color:#dddddd;
 	min-height:200px;
 	margin-top: 20px;
+	background-color: #333333;
 }
 
 #main-content > #gallery{
@@ -119,6 +131,7 @@ a{
     border-color: #666666;
     font-size: 2em;
     margin-bottom: 10px;
+	margin-top:15px;
 }
 
 #strat > .cat-content{
@@ -128,6 +141,8 @@ a{
 #strat > .cat-content > .cat-text{
     width:100%;
 	font-size:1.1em;
+	text-align: justify;
+	margin-right: 10px;
 }
 
 #strat > .cat-content > .cat-text > .icon{
