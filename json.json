@@ -11,12 +11,14 @@
                {
                   "CatName":"Toto",
                   "Text":"le boss championne se déroule en 3 phases",
-                  "Picture":"p1.jjg"
+                  "Picture":"p1.jjg",
+				  "Pos":""
                },
                {
                   "CatName":"J'aime le chocolat",
                   "Text":"Il me faut du text",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                }
             ]
          },
@@ -28,12 +30,14 @@
                {
                   "CatName":"Le Gros Singe",
                   "Text":"singe qui tape",
-                  "Picture":"p1.jjg"
+                  "Picture":"p1.jjg",
+				  "Pos":""
                },
                {
                   "CatName":"J'aime les kiwis",
                   "Text":"Il me faut plus de text",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                }
             ]
          }
@@ -51,12 +55,14 @@
                {
                   "CatName":"1ere catégorie",
                   "Text":"des items en raid ?",
-                  "Picture":"p1.jjg"
+                  "Picture":"p1.jjg",
+				  "Pos":""
                },
                {
                   "CatName":"un oss boss",
                   "Text":"Un tank distant",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                }
             ]
          },
@@ -68,12 +74,14 @@
                {
                   "CatName":"machin",
                   "Text":"machin qui tape",
-                  "Picture":"p1.jjg"
+                  "Picture":"p1.jjg",
+				  "Pos":""
                },
                {
                   "CatName":"DAWA",
                   "Text":"LE Dawa",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                }
             ]
          }
@@ -91,32 +99,38 @@
                {
                   "CatName":"Résumé",
                   "Text":"C'est un combat en 1 phase. C'est un combat de placement et de gestion de débuff sur chaque personne du raid.",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                },
 			   {
                   "CatName":"Sorts globaux",
                   "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_frostemblem_01.jpg\" /> <span class=\"color-yellow\">Marque de givre</span> : Dot léger + Perte de 5% de vitesse de deplacement. Cumulable. Pour déstack, vous devez bouger  sinon, vous serez gelez pendant 5 secondes.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_creature_disease_02.jpg\" /> <span class=\"color-yellow\">Marque toxique</span> : Dot important + Reduction de 5% de heals recus. Cumulable.  Pour ne pas stack, il faut ne pas bouger  sinon, vous serez desoriente pendant 5 sec.<br><br>Aucune personne ayant une marque d'un type ne doit être au cac d'une personne ayant l'autre type de marque. Sinon, nous allons subir :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_demonhunter_chaosnova.jpg\" /> <span class=\"color-yellow\">Mélange instable</span> : Dot important sur tout le raid <br><br>Au pull, le boss va lancer :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/artifactability_marksmanhunter_legacyofthewindrunners.jpg\" /> <span class=\"color-yellow\">Marques Chimeriques</span> : Mets une marque de givre ou une marque toxique sur chacun des raideurs.<br><span class=\"color-red\">Le boss relance le sort pendant le combat pour faire accumuler les stacks sur le raid. Vous ne pouvez pas être ciblé par une autre marque que la votre avec ce sort.</span><br>Les personnes de givre iront à droite de la salle et ceux toxiques iront à gauche comme le montre le schema.",
-                  "Picture":"positionnement.jpg"
+                  "Picture":"positionnement.jpg",
+				  "Pos":""
                },
                {
                   "CatName":"Sorts du boss",
                   "Text":"Lors du combat, certains personnes seront victime de <span class=\"color-yellow\">Débordement</span> qui provoquera deux sorts distincts selon votre marque :<br><span class=\"color-yellow\">Froid pénétrant</span> et <span class=\"color-yellow\">Débordement de poison</span> : Provoque l'explosion de votre marque, faisant de lourds dégâts partageables, et créant par la suite une aoe au sol : <span class=\"color-yellow\">Froidure</span> ou <span class=\"color-yellow\">Sol Sceptique</span> qui fait des dégats et qui augmente vos stacks de votre marque.<br>Pour gérer cette capacité, il faut que les gens ayant la même marque se rapproche à moins de 5 mètres de la personne victime du debordement pour soak les dégâts.<br><br>Le boss lance aussi durant le combat des :<br><span class=\"color-yellow\">Éclair de givre</span> et <span class=\"color-yellow\">Éclair toxique</span> : Tire sur une personne aléatoire et l'immobilise. Si un joueur est touché par un eclair d'un type différent à sa marque, ça déclenche le <span class=\"color-yellow\">Mélange instable</span>.<br>Cette technique doit être intercepté par une personne ayant la bonne marque. Et cette personne doit être libéré en cliquant sur le javelot sur son corps.<br><br>Le boss pourra aussi lancer le sort :<br><span class=\"color-yellow\">Inversion</span> : Inverse le type de marque de certaines personnes et de toutes les zones au sol.<br>Les joueurs devront alors se repositionner dans la bonne zone sans toucher ses anciens mates de type de marque.<br><br>2 attaques sont liées au tank :<br><span class=\"color-yellow\">Reverberation écrasante</span> : Une attaque où les cacs qui ont la meme marque que le tank actif vont devoir soak. Puis, le raid est bump<br><span class=\"color-yellow\">Pointe de givre-venin</span> : Dot cumulable qui à expiration créait une zone au sol.<br><br>A 100 points d'énergie, le boss lance :<br><span class=\"color-yellow\">Barrage accablant</span> : Le boss tire une volée de traits geles et empoisonnees qui declenche le <span class=\"color-yellow\">Mélange instable</span> si un joueur est touché par un trait d'un type différent à sa marque.<br>Ce sort doit etre esquivé.<br>",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                },
 			   {
                   "CatName":"STRAT TANK",
                   "Text":"Chaque tank doit être du côté de son type de marque (voir schema precedent)<br>Un swap en fonction du dot posé par <span class=\"color-yellow\">Pointe de givre-venin</span> est à effectuer. Une fois le swap fait, le tank doit poser sa flaque au loin.",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                },
 			   {
                   "CatName":"STRAT HEAL",
                   "Text":"Aucun dispel sur les tanks ne doit être fait, sauf si on vous le demande.<br>Les heals doivent être du bon côté de la salle, en fonction du type de votre marque<br>Si un mate ayant votre type de marque est affecté par <span class=\"color-yellow\">Débordement</span>, soakez les dégâts et sortez de l'aoe.<br>En cas d'<span class=\"color-yellow\">inversion</span>, changez de côté.<br>Si le boss envoie un <span class=\"color-yellow\">Éclair</span> d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <span class=\"color-yellow\">Barrage accablant</span>.<br>",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                },
 			   {
                   "CatName":"STRAT DPS",
                   "Text":"Les DPS doivent être du bon côté de la salle, en fonction du type de votre marque<br>Si un mate ayant votre type de marque est affecte par <span class=\"color-yellow\">Débordement</span>, soakez les degats et sortez de l'aoe.<br>En cas d'<span class=\"color-yellow\">inversion</span>, changez de côté.<br>Si le boss envoie un <span class=\"color-yellow\">Éclair</span> d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <span class=\"color-yellow\">Barrage accablant</span>.<br>",
-                  "Picture":""
+                  "Picture":"",
+				  "Pos":""
                }
             ]
          }
