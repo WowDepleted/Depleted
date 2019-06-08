@@ -138,8 +138,13 @@ function generateStratPage(data,raidName,bossName){
 		if(partie["Picture"].length > 0){
 			divContent.append(divImage);
 		}
-		divStrat.append(divName)
-		        .append(divContent);
+		if(partie["CatName"].length > 0){
+			divStrat.append(divName);
+		}
+		else{
+			divStrat.append("<br>");
+		}
+		divStrat.append(divContent);
 	});
 }
 

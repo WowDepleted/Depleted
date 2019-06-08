@@ -145,6 +145,7 @@ a{
 	font-size:1.1em;
 	text-align: justify;
 	margin-right: 10px;
+	margin-left: 10px;
 }
 
 #strat > .cat-content > img{
@@ -152,6 +153,6 @@ a{
 }
 
 #strat > .cat-content > .cat-text > .icon{
-    height:25px;
+    height:19px;
 	border-radius:20%;
 }
