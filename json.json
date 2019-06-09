@@ -195,7 +195,7 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"Pendant la traversée, vous devez éviter les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_fish_49.jpg\" /> <span class=\"color-yellow\">Méduse des eaux sombres</span> <span class=\"color-yellow\">Méduse des eaux sombres</span>. Si vous être proche d'elles, elles vous mettent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur vous et vous êtes mort.",
+                  "Text":"<br>Pendant la traversée, vous devez éviter les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_fish_49.jpg\" /> <span class=\"color-yellow\">Méduse des eaux sombres</span> <span class=\"color-yellow\">Méduse des eaux sombres</span>. Si vous être proche d'elles, elles vous mettent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur vous et vous êtes mort.",
                   "Picture":"meduse.jpg",
 				  "Pos":"left"
                },
