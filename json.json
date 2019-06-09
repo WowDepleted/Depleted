@@ -183,7 +183,7 @@
                },
 			   {
                   "CatName":"STRAT HEAL / CASTER",
-                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightningoverload.jpg\" /> <span class=\"color-yellow\">Remous électriques</span>",
+                  "Text":"Etre éloigné le plus possible du boss pour ne pas etre victime de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightningoverload.jpg\" /> <span class=\"color-yellow\">Remous électriques</span>.<br>Etre bien espacé les uns des autres en utilisant la hauteur.",
                   "Picture":"",
 				  "Pos":""
                },
