@@ -172,7 +172,7 @@ a{
 	border-radius:2%;
 }
 
-#strat > .cat-content > .cat-text > .icon{
+#strat .cat-content .cat-text .icon{
     height:19px;
 	border-radius:20%;
 }
