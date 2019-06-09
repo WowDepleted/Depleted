@@ -133,7 +133,7 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"A 100 points d'énergie, le boss lance :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/hunter_pvp_vipersting.jpg\" /> <span class=\"color-yellow\">Barrage accablant</span> : Le boss tire une volée de traits geles et empoisonnees qui declenche le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_demonhunter_chaosnova.jpg\" /> <span class=\"color-yellow\">Mélange instable</span> si un joueur est touché par un trait d'un type différent à sa marque.<br>Ce sort doit etre esquivé.<br>",
+                  "Text":"<br><br>A 100 points d'énergie, le boss lance :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/hunter_pvp_vipersting.jpg\" /> <span class=\"color-yellow\">Barrage accablant</span> : Le boss tire une volée de traits geles et empoisonnees qui declenche le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_demonhunter_chaosnova.jpg\" /> <span class=\"color-yellow\">Mélange instable</span> si un joueur est touché par un trait d'un type différent à sa marque.<br>Ce sort doit etre esquivé.<br>",
                   "Picture":"barrage.jpg",
 				  "Pos":"left"
                },
