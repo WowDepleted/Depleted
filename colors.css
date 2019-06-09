@@ -2,6 +2,10 @@
 	color:red;
 }
 
+.color-dark-red{
+	
+}
+
 .color-orange{
 	color:orange;
 }
@@ -28,4 +32,9 @@
 
 .color-dps-dist{
 	color:#51c9d6
+}
+
+.format-tab{
+	padding-left: 30px;
+    content: close-quote;
 }
