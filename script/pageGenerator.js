@@ -106,8 +106,13 @@ function generateStratPage(data,raidName,bossName){
 	});
 	var divHeaderTitle = $("<div/>").append(bossRealName);
 	var divHeaderImage = $("<img/>").attr("src",bossPicture);
+	var divHeaderBackground = $("<div/>")
+				.attr("id","strat-background-top")
+				.attr("style","background-image:url(\"./resources/"+raidName+"/"+raidName+".jpg\")")		
+				.attr("style","background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(51, 51, 51)),url(\"./resources/"+raidName+"/"+raidName+".jpg\");");
 	divHeader.append(divHeaderTitle)
-			 .append(divHeaderImage);			
+			 .append(divHeaderImage)
+			 .append(divHeaderBackground);
 	
 	var raidData = data[raidName];
 	var stratData;
