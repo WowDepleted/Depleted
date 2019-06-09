@@ -191,6 +191,7 @@ a{
 
 #strat > .cat-content > img{
 	border-radius:2%;
+	align-self: center;
 }
 
 #strat .cat-content .cat-text .icon{
