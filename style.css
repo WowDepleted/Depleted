@@ -119,16 +119,17 @@ a{
     align-items: center;
 	margin-block-start: 20px;
     margin-top: 0px;
+	flex-wrap:wrap;
 }
 
 #strat-header > div{
 	font-size: 3em;
-    width: 100%;
+    max-width: 50%;
 	z-index: 2;
 	padding-left:20px;
 	height:250px;
 	display:flex;
-	    align-items: center;
+	align-items: center;
 }
 
 #strat-header > img{
@@ -137,8 +138,8 @@ a{
 	z-index: 2;
 	margin-top: 10px;
 	box-shadow: 0 0 4px 0px #00000066;
-	width: 27%;
-	margin-right:20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #strat-header > .YTVideo-header{
@@ -147,12 +148,14 @@ a{
 	height: 200px;
     width: 530px;
 	margin-top: 10px;
-	padding-right:20px
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #strat-background-top{
     background-size: 100%;
-    width: 1180px !important;
+	width: 100%;
+    max-width: 1180px !important;
     height: 270px;
     position: absolute;
     z-index: 0 !important;
