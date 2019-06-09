@@ -98,21 +98,35 @@ function generateStratPage(data,raidName,bossName){
 				
 	var bossRealName = "";
 	var bossPicture = "./resources/"+raid+"/"+bossName+"/";
+	var bossVideoLink = "";
 	$.each( data[raidName]["Boss"], function( boss, bossData ) {
 		if(bossData["BossCode"] === bossName){
 			bossRealName = bossData["BossRealName"];
 			bossPicture+= bossData["Picture"];
+			bossVideoLink = bossData["Video"];
 		}
 	});
 	var divHeaderTitle = $("<div/>").append(bossRealName);
 	var divHeaderImage = $("<img/>").attr("src",bossPicture);
+	var divHeaderVideo = $("<iframe/>").attr("class","YTVideo-header");
+	if(bossVideoLink.length != 0){
+		divHeaderVideo.attr("src","https://www.youtube.com/embed/"+bossVideoLink);
+		divHeaderVideo.attr("allowfullscreen","allowfullscreen");
+		divHeaderVideo.attr("mozallowfullscreen","mozallowfullscreen");
+		divHeaderVideo.attr("msallowfullscreen","msallowfullscreen");
+		divHeaderVideo.attr("oallowfullscreen","oallowfullscreen");
+		divHeaderVideo.attr("webkitallowfullscreen","webkitallowfullscreen");
+	}
 	var divHeaderBackground = $("<div/>")
 				.attr("id","strat-background-top")
 				.attr("style","background-image:url(\"./resources/"+raidName+"/"+raidName+".jpg\")")		
 				.attr("style","background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(51, 51, 51)),url(\"./resources/"+raidName+"/"+raidName+".jpg\");");
 	divHeader.append(divHeaderTitle)
-			 .append(divHeaderImage)
-			 .append(divHeaderBackground);
+	if(bossVideoLink.length != 0)
+		divHeader.append(divHeaderVideo);
+	else
+		divHeader.append(divHeaderImage);
+	divHeader.append(divHeaderBackground);
 	
 	var raidData = data[raidName];
 	var stratData;
