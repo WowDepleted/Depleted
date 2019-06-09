@@ -123,11 +123,12 @@ a{
 }
 
 #strat-header > img{
-	height: 250px;
+	max-height: 250px;
 	border-radius: 10px;
 	z-index: 2;
 	margin-top: 10px;
 	box-shadow: 0 0 4px 0px #00000066;
+	width: 27%;
 }
 
 #strat-background-top{
@@ -138,6 +139,19 @@ a{
     z-index: 0 !important;
     opacity: 0.5;
     top: 58px;
+	min-height: 30px;
+}
+@media screen and (max-width: 1200px) {
+#strat-background-top{
+    background-size: 100%;
+    width: 1200px !important;
+    position: absolute;
+    z-index: 0 !important;
+    opacity: 0.5;
+    top: 58px;
+	padding-top: 23%;
+    height: 0 ;
+}
 }
 
 #strat > .cat-title{
