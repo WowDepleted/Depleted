@@ -159,13 +159,13 @@
                },
 			   {
                   "CatName":"Mécanique importante",
-                  "Text":"La capacite la plus importante est le debuff ci-apres. Celui-ci affecte tout le monde.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_auraofdarkness.jpg\" /> <span class=\"color-yellow\">Profondeurs obscures</span> : Debuff qui reduit les soins recus de 100%<br><br>Pour le contrer, il faudra tuer des <span class=\"color-dark-red\">Poisson-globe à peau luisante</span>. Une fois mort, tous les dps/heal devront rentrer dans :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_herb_evergreenmoss.jpg\" /> <span class=\"color-yellow\">Nuage bioluminescent</span> : Zone qui permet d'avoir le buff suivant pendant 45 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> : Permet au joueur d'être heal",
+                  "Text":"La capacite la plus importante est le debuff ci-apres. Celui-ci affecte tout le monde.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_auraofdarkness.jpg\" /> <span class=\"color-yellow\">Profondeurs obscures</span> : Debuff qui reduit les soins recus de 100%",
                   "Picture":"",
 				  "Pos":""
                },
 			   {
                   "CatName":"",
-                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_herb_evergreenmoss.jpg\" /> <span class=\"color-yellow\">Nuage bioluminescent</span> : Zone qui permet d'avoir le buff suivant pendant 45 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> : Permet au joueur d'être heal",
+                  "Text":"Pour le contrer, il faudra tuer des <span class=\"color-dark-red\">Poisson-globe à peau luisante</span>. Une fois mort, tous les dps/heal devront rentrer dans :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_herb_evergreenmoss.jpg\" /> <span class=\"color-yellow\">Nuage bioluminescent</span> : Zone qui permet d'avoir le buff suivant pendant 45 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> : Permet au joueur d'être heal",
                   "Picture":"poisson.jpg",
 				  "Pos":""
                },
@@ -184,8 +184,8 @@
 			   {
                   "CatName":"",
                   "Text":"Pendant la traversée, vous devez éviter les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_fish_49.jpg\" /> <span class=\"color-yellow\">Méduse des eaux sombres</span> <span class=\"color-yellow\">Méduse des eaux sombres</span>. Si vous être proche d'elles, elles vous mettent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur vous et vous êtes mort.",
-                  "Picture":"",
-				  "Pos":"meduse.jpg"
+                  "Picture":"meduse.jpg",
+				  "Pos":"left"
                },
 			   {
                   "CatName":"",
