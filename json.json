@@ -136,7 +136,7 @@
                   "Text":"Lors du combat, certains personnes seront victime de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/sha_ability_warrior_bloodnova_nightmare.jpg\" /> <span class=\"color-yellow\">Débordement</span> qui provoquera deux sorts distincts selon votre marque :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostshock.jpg\" /> <span class=\"color-yellow\">Froid pénétrant</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_creature_poison_02.jpg\" /> <span class=\"color-yellow\">Débordement de poison</span> : Provoque l'explosion de votre marque, faisant de lourds dégâts partageables, et créant par la suite une aoe au sol (<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_hunter_icetrap.jpg\" /> <span class=\"color-yellow\">Froidure</span> ou <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_creature_poison_06.jpg\" /> <span class=\"color-yellow\">Sol Sceptique</span>) qui fait des dégats et qui augmente vos stacks de votre marque.<br>Pour gérer cette capacité, il faut que les gens ayant la même marque se rapproche à moins de 5 mètres de la personne victime du debordement pour soak les dégâts.",
                   "Picture":"debordement.jpg",
 				  "Pos":"",
-				  "Legend":""
+				  "Legend":"Débordement"
                },
 			   {
                   "CatName":"",
