@@ -367,7 +367,7 @@
                },
                {
                   "CatName":"",
-                  "Text":"Corsandre fait aussi :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_azerite-area-denial.jpg\" /><span class=\"color-yellow\">Arc d'azerite</span> : Forme 3 paires de raiders. Chaque paire aura un symbole particulier sur la tête. Au bout de 8 secondes, l'arc qui lie les deux personnes de chaque paire explose, infligeant des gros dégats d'arcane aux joueurs sur cet arc et détruisants les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span>.",
+                  "Text":"Corsandre fait aussi :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_azerite-area-denial.jpg\" /> <span class=\"color-yellow\">Arc d'azerite</span> : Forme 3 paires de raiders. Chaque paire aura un symbole particulier sur la tête. Au bout de 8 secondes, l'arc qui lie les deux personnes de chaque paire explose, infligeant des gros dégats d'arcane aux joueurs sur cet arc et détruisants les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span>.",
                   "Picture":"arc.jpg",
 				  "Pos":"",
 				  "Legend":"Symboles des paires"
@@ -382,20 +382,20 @@
 			   {
                   "CatName":"STRAT TANK",
                   "Text":"",
-                  "Picture":"",
+                  "Picture":"Switch et bouger le boss à chaque <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_legion_seashella4.jpg\" /> <span class=\"color-yellow\">Frappe des balanes</span>.<br>Faites le tour de la salle avec le boss pour faciliter le travail sur les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_tidalwaves.jpg\" /> <span class=\"color-yellow\">Vague ondulante</span>.",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"",
+                  "Text":"Esquivez les zones au sol causées par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Giclée</span>.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_tidalwaves.jpg\" /> <span class=\"color-yellow\">Vague ondulante</span><br>Si vous êtes victime de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_reform.jpg\" /> <span class=\"color-yellow\">Bulle saumâtre</span>, regroupez-vous.<br>Essayez de détruire les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> si vous êtes atteint par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_azerite-area-denial.jpg\" /> <span class=\"color-yellow\">Arc d'azerite</span>.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"",
+                  "Text":"Esquivez les zones au sol causées par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Giclée</span>.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_tidalwaves.jpg\" /> <span class=\"color-yellow\">Vague ondulante</span><br>Si vous êtes victime de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_reform.jpg\" /> <span class=\"color-yellow\">Bulle saumâtre</span>, regroupez-vous.<br>Essayez de détruire les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> si vous êtes atteint par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_azerite-area-denial.jpg\" /> <span class=\"color-yellow\">Arc d'azerite</span>.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
