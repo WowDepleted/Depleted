@@ -177,6 +177,13 @@ a{
     display: flex;
 }
 
+@media screen and (max-width: 800px) {
+  #strat > .cat-content{
+	  flex-wrap: wrap; 
+	  justify-content: center;
+  }
+}
+
 #strat > .cat-content.leftPicture{
     flex-direction: row-reverse;
 }
