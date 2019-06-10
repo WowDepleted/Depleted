@@ -98,7 +98,7 @@ a{
 }
 
 #main-content > #gallery > a > img{
-	height: 300px;
+	height: 290px;
 	border-radius:20px;
 	margin-bottom:5px;
 	box-shadow: 0px 0px 5px #00000085;
@@ -196,9 +196,22 @@ a{
 	margin-left: 10px;
 }
 
-#strat > .cat-content > img{
+#strat > .cat-content > .cat-strat-img {
+    background-color: rgba(0,0,0,0.4);
+    padding: 5px;
+    border-radius: 2%;
+}
+
+#strat > .cat-content > .cat-strat-img > img{
 	border-radius:2%;
 	align-self: center;
+	display:block;
+}
+
+#strat > .cat-content > .cat-strat-img > div{
+	text-align: center;
+    padding-top: 3px;
+    font-size: 0.9em;
 }
 
 #strat .cat-content .cat-text .icon{
