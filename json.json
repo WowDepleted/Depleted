@@ -466,14 +466,14 @@
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Tenez en vie les gens affectés par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span><br>Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloigner du raid pour aller avec les autres atteints par ce débuff.",
+                  "Text":"Tenez en vie les gens affectés par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span><br>Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloigner du raid pour aller avec les autres atteints par ce débuff.",
+                  "Text":"Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
