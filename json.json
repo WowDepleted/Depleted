@@ -204,14 +204,14 @@
                },
                {
                   "CatName":"Phase 2",
-                  "Text":"Une fois à 100% d'energie, la P2 commence. La P2 est une traversée des profondeurs obscures (ouhouh, ca fait peur). Ce qui est important dans cette transition, c'est que quiconque nagera dans cette zone en ayant le buff <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur lui finira manger. Donc, si vous ne voulez pas finir en diner pour poisson affamé, ne traversez pas avec ce buff.<br><br>Une fois le buff <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> enlevé, vous devez passer dans des <span class=\"color-yellow\">Sillage</span>. Ce sont des vagues qui vont vous propulser et vous accélérer.",
+                  "Text":"Une fois à 100% d'energie, la P2 commence. La P2 est une traversée des profondeurs obscures (ouhouh, ca fait peur). Ce qui est important dans cette transition, c'est que quiconque nagera dans cette zone en ayant le buff <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur lui finira manger. Donc, si vous ne voulez pas finir en diner pour poisson affamé, ne traversez pas avec ce buff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"",
-                  "Text":"<br>Pendant la traversée, vous devez éviter les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_fish_49.jpg\" /> <span class=\"color-yellow\">Méduse des eaux sombres</span> <span class=\"color-yellow\">Méduse des eaux sombres</span>. Si vous être proche d'elles, elles vous mettent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur vous et vous êtes mort.",
+                  "Text":"Une fois le buff <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> enlevé, vous devez passer dans des <span class=\"color-yellow\">Sillage</span>. Ce sont des vagues qui vont vous propulser et vous accélérer.<br><br>Pendant la traversée, vous devez éviter les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_fish_49.jpg\" /> <span class=\"color-yellow\">Méduse des eaux sombres</span> <span class=\"color-yellow\">Méduse des eaux sombres</span>. Si vous être proche d'elles, elles vous mettent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplodegreen.jpg\" /> <span class=\"color-yellow\">Bioluminescence</span> sur vous et vous êtes mort.",
                   "Picture":"meduse.jpg",
 				  "Pos":"left",
 				  "Legend":"Méduse"
