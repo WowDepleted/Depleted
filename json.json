@@ -524,9 +524,9 @@
 			   {
                   "CatName":"",
                   "Text":"<span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_bossfelorcs_necromancer_purple.jpg\"/> <span class=\"color-yellow\"> Sphère d’influence</span> : Les décrets sont boostés, en durée comme en dégats infligés et inflige des dégâts d'ombre supplémentaire</span>",
-                  "Picture":"formation.jpg",
+                  "Picture":"",
 				  "Pos":"",
-				  "Legend":"En formation"
+				  "Legend":""
                },
 			   {
                   "CatName":"STRAT TANK",
@@ -537,8 +537,8 @@
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"",
-                  "Picture":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> est votre plus grand ennemi, prevoyez-le. ",
+                  "Text":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> est votre plus grand ennemi, prevoyez-le.",
+                  "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
