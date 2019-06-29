@@ -440,7 +440,7 @@
                   "CatName":"Interphase",
                   "Text":"A la fin de la P1, le boss se barre dans la  deuxième salle. Pour le rejoindre, il suffit de parcourir un couloir en évitant 2 types d'aoe :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_oiljets.jpg\" /> <span class=\"color-yellow\">Biodégration</span> : Aoe qui bump les gens. Faire gaffe, on peut tomber dans le vide à gauche.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_legion_wildfowlegg.jpg\" /> <span class=\"color-yellow\">Éclosion explosive</span> : Une Aoe autour des oeufs qui bump (gaffe au trou) et qui inflige des dégats de nature.<br><br>Une fois au bout du couloir, le boss nous attend en castant un sort. Il faudra le decast le plus tard possible pour gagner un peu de temps.",
                   "Picture":"interphase.jpg",
-				  "Pos":"left",
+				  "Pos":"",
 				  "Legend":"Interphase"
                },
                {
@@ -454,7 +454,7 @@
                   "CatName":"",
                   "Text":"<br>Les <span class=\"color-dark-red\">Myrmidon zanj'ir</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_polearm_2h_kthirrelic_d_01.jpg\" /> <span class=\"color-yellow\">Embrocher</span> : Inflige de lourd dégats physiques au tank<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_impalingbolt.jpg\" /> <span class=\"color-yellow\"> Lance d'eau</span> : Tire sur un joueur une lance faisant des dégats de nature et crée une zone aoe de nature au point d'impact qui ne disparait pas.",
                   "Picture":"lance.jpg",
-				  "Pos":"",
+				  "Pos":"left",
 				  "Legend":"Lance d'eau"
                },
                {
@@ -466,21 +466,21 @@
                },
 			   {
                   "CatName":"STRAT TANK",
-                  "Text":"",
+                  "Text":"Switch avant d'avoir 10 stacks de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_poisonsting.jpg\" /> <span class=\"color-yellow\">Piqûre insensibilisante</span><br>Soak tout ce qu'il y a à soak avec un maximum de stacks : <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warstomp.jpg\" /> <span class=\"color-yellow\"> Choc puissant</span>.<br>Tankez les adds un peu éloigné du boss pour pas qu'ils se fassent buff par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span>.<br>Claquez des cds defensifs au début lors que vous n'avez pas de stack.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"",
+                  "Text":"Tenez en vie les gens affectés par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span><br>Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloigner du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"",
+                  "Text":"Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloigner du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
