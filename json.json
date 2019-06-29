@@ -431,17 +431,17 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span> : Buff ses adds en dégats et en réduction de dégats de 50%.<br><br>Orgozoa invoque aussi des <span class=\"color-dark-red\">Zoatroïde</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_stormlordsfavor.jpg\" /> <span class=\"color-yellow\">Décharge étendue</span> : Dégats de nature en aoe sur le raid.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> : Zone a soak au bout de 5 sec une fois l'add mort.<br><br><span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /><span class=\"color-yellow\">Appel du Gardien</span> : Invoque des Zoatroïde de manière régulière.</span><br><br>La P1 va se dérouler comme suit en héroïque : il y aura 3 <span class=\"color-yellow\">Ichor suintant</span> qui seront à chaque fois suivis par le pop des adds. L'interphase commence lors 3ième pop d'add.",
+                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span> : Buff ses adds en dégats et en réduction de dégats de 50%.<br><br>Orgozoa invoque aussi des <span class=\"color-dark-red\">Zoatroïde</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_stormlordsfavor.jpg\" /> <span class=\"color-yellow\">Décharge étendue</span> : Dégats de nature en aoe sur le raid.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> : Zone a soak au bout de 5 sec une fois l'add mort.<br><br><span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /><span class=\"color-yellow\">Appel du Gardien</span> : Invoque des <span class=\"color-dark-red\">Zoatroïde</span> de manière régulière.</span><br><br>La P1 va se dérouler comme suit en héroïque : il y aura 3 <span class=\"color-yellow\">Ichor suintant</span> qui seront à chaque fois suivis par le pop des adds. L'interphase commence lors du 3ième pop d'add.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
-                  "CatName":"Phase 2",
-                  "Text":"",
-                  "Picture":"",
-				  "Pos":"",
-				  "Legend":""
+                  "CatName":"Interphase",
+                  "Text":"A la fin de la P1, le boss se barre dans la  deuxième salle. Pour le rejoindre, il suffit de parcourir un couloir en évitant 2 types d'aoe :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_oiljets.jpg" /> <span class=\"color-yellow\">Biodégration</span> : Aoe qui bump les gens. Faire gaffe, on peut tomber dans le vide à gauche.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_legion_wildfowlegg.jpg" /> <span class=\"color-yellow\">Éclosion explosive</span> : Une Aoe autour des oeufs qui bump (gaffe au trou) et qui inflige des dégats de nature.<br><br>Une fois au bout du couloir, le boss nous attend en castant un sort. Il faudra le decast le plus tard possible pour gagner un peu de temps.",
+                  "Picture":"inter.jpg",
+				  "Pos":"left",
+				  "Legend":"Interphase"
                },
                {
                   "CatName":"",
