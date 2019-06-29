@@ -439,7 +439,7 @@
                {
                   "CatName":"Interphase",
                   "Text":"A la fin de la P1, le boss se barre dans la  deuxième salle. Pour le rejoindre, il suffit de parcourir un couloir en évitant 2 types d'aoe :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_oiljets.jpg\" /> <span class=\"color-yellow\">Biodégration</span> : Aoe qui bump les gens. Faire gaffe, on peut tomber dans le vide à gauche.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_legion_wildfowlegg.jpg\" /> <span class=\"color-yellow\">Éclosion explosive</span> : Une Aoe autour des oeufs qui bump (gaffe au trou) et qui inflige des dégats de nature.<br><br>Une fois au bout du couloir, le boss nous attend en castant un sort. Il faudra le decast le plus tard possible pour gagner un peu de temps.",
-                  "Picture":"inter.jpg",
+                  "Picture":"interphase.jpg",
 				  "Pos":"left",
 				  "Legend":"Interphase"
                },
@@ -452,7 +452,7 @@
                },
                {
                   "CatName":"",
-                  "Text":"Les <span class=\"color-dark-red\">Myrmidon zanj'ir</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_polearm_2h_kthirrelic_d_01.jpg\" /> <span class=\"color-yellow\">Embrocher</span> : Inflige de lourd dégats physiques au tank<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_impalingbolt.jpg\" /> <span class=\"color-yellow\"> Lance d'eau</span> : Tire sur un joueur une lance faisant des dégats de nature et crée une zone aoe de nature au point d'impact qui ne disparait pas.",
+                  "Text":"<br>Les <span class=\"color-dark-red\">Myrmidon zanj'ir</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_polearm_2h_kthirrelic_d_01.jpg\" /> <span class=\"color-yellow\">Embrocher</span> : Inflige de lourd dégats physiques au tank<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_impalingbolt.jpg\" /> <span class=\"color-yellow\"> Lance d'eau</span> : Tire sur un joueur une lance faisant des dégats de nature et crée une zone aoe de nature au point d'impact qui ne disparait pas.",
                   "Picture":"lance.jpg",
 				  "Pos":"",
 				  "Legend":"Lance d'eau"
