@@ -401,6 +401,84 @@
 				  "Legend":""
                }
             ]
+         },
+		 {
+			"BossCode":"orgozoa",
+            "BossRealName":"Orgozoa",
+            "Picture":"orgozoa.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Résumé",
+                  "Text":"C'est un combat en 2 phases entrecoupées par une interphase.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Phase 1",
+                  "Text":"La P1 est particulère pour les tanks à cause de cette capacité :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_poisonsting.jpg\" /> <span class=\"color-yellow\">Piqûre insensibilisante</span> : Debuff sur les tank cumulable 9 fois. Chaque stack réduit de 10% les dégâts subits. A 10 stacks, le tank subit <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_organ_01.jpg\" /> <span class=\"color-yellow\">Paralysie pétrifiante</span><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_organ_01.jpg\" /> <span class=\"color-yellow\">Paralysie pétrifiante</span> : Le joueur meurt d'une crise cardiaque !",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"",
+                  "Text":"Le boss lance aussi des sorts sur le raid :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_yorsahj_bloodboil_black.jpg\" /> <span class=\"color-yellow\">Ichor suintant</span> : Des aoes de nature dans la salle à esquiver<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span> : Le boss gicle sur des joueurs aléatoire et leur met un dot.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_thunderking_lightningwhip.jpg\" /> <span class=\"color-yellow\">Arc conducteur</span> : Crée un arc électrique entre 3 joueurs étant affectés par le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>. Tout autre joueur se prenant l'arc sera affecté par le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>.",
+                  "Picture":"ichor.jpg",
+				  "Pos":"",
+				  "Legend":"Ichor suintant"
+               },
+			   {
+                  "CatName":"",
+                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span> : Buff ses adds en dégats et en réduction de dégats de 50%.<br><br>Orgozoa invoque aussi des <span class=\"color-dark-red\">Zoatroïde</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_stormlordsfavor.jpg\" /> <span class=\"color-yellow\">Décharge étendue</span> : Dégats de nature en aoe sur le raid.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> : Zone a soak au bout de 5 sec une fois l'add mort.<br><br><span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /><span class=\"color-yellow\">Appel du Gardien</span> : Invoque des Zoatroïde de manière régulière.</span><br><br>La P1 va se dérouler comme suit en héroïque : il y aura 3 <span class=\"color-yellow\">Ichor suintant</span> qui seront à chaque fois suivis par le pop des adds. L'interphase commence lors 3ième pop d'add.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Phase 2",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT TANK",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT HEAL",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT DPS",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
          }
       ]
    }
