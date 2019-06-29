@@ -537,14 +537,14 @@
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> est votre plus grand ennemi, prevoyez-le.",
+                  "Text":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> est votre plus grand ennemi, prevoyez-le.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> hors du raid et le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Ne détruisez pas toutes les étincelles en même temps. ",
+                  "Text":"Ne détruisez pas toutes les étincelles en même temps.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> hors du raid et le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
