@@ -488,56 +488,28 @@
             "Strat":[
                {
                   "CatName":"Résumé",
-                  "Text":"",
+                  "Text":"Combat de deux boss en même temps et en une seule phase. Comme quasiment tous les boss en double, il faut les tuer en même temps. Sinon, ils se régènent de 30% de vie. Toujours comme quasiement tous les boss en double, il faudra les tanker séparement (21 mètres) sinon ils subissent 99% de dégats en moins.<br>Il ya donc deux boss :",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
-                  "CatName":"Phase 1",
-                  "Text":"",
+                  "CatName":"Silivaz le Zélé",
+                  "Text":"C'est le monsieur. Il a une capacité tank et deux autres :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warrior_incite.jpg\"/> <span class=\"color-yellow\"> Fureur du commandant</span> : Gagne 8% de vitesse d'attaque à chaque auto sur la même cible.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> : Charge une cible qui fait des dégats de givre soakable. Au point d'impact, une Rupture puissante est créée.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/shaman_pvp_ripplingwaters.jpg\"/> <span class=\"color-yellow\"> Rupture puissante</span> : Aoe de givre qui reste jusqu'à la fin du combat.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\"/> <span class=\"color-yellow\"> Éruption zélée</span> : Aoe de givre sur le raid qui dure 10 secondes. Pour ne pas prendre de dégâts, il faut aller dans un bouclier qui entoure le boss.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
-                  "CatName":"",
-                  "Text":"",
-                  "Picture":"ichor.jpg",
+                  "CatName":"Pashmar la Fanatique",
+                  "Text":"C'est la madame. Elle possède aussi une seule capacité tank et 4 abilités raid :<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_nagafemale.jpg\"/> <span class=\"color-yellow\"> Toucher de Pashmar</span> : Débuff sur le tank qui se stack à chaque auto. A 10 stack, le tank est CM.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightningoverload.jpg\"/> <span class=\"color-yellow\"> Onde violente</span> : Aoe de Nature sur le raid. Plus les joueurs sont loin du boss, moins ils subissent de dégâts.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_electrocharge.jpg\"/> <span class=\"color-yellow\"> Eclair de zèle</span> : Fait des dégats de nature sur une cible<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_unrelentingstorm.jpg\"/> <span class=\"color-yellow\"> Verdict radical</span> : Débuff de nature qui explose et fait des dégats à toute personne à 6 mètres.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_thunderking_balllightning.jpg\"/> <span class=\"color-yellow\"> Étincelle puissante</span> : Invoque 3 étincelles qui lorsqu'elles sont détruites font des dégâts sur le raid et augmentent les prochains dégâts des autres étincelles de 100% pendant 5 secondes.",
+                  "Picture":"",
 				  "Pos":"",
-				  "Legend":"Ichor suintant"
+				  "Legend":""
                },
 			   {
-                  "CatName":"",
-                  "Text":"",
-                  "Picture":"",
-				  "Pos":"",
-				  "Legend":""
-               },
-               {
-                  "CatName":"Interphase",
-                  "Text":"",
-                  "Picture":"interphase.jpg",
-				  "Pos":"",
-				  "Legend":"Interphase"
-               },
-               {
-                  "CatName":"Phase 2",
-                  "Text":"",
-                  "Picture":"",
-				  "Pos":"",
-				  "Legend":""
-               },
-               {
-                  "CatName":"",
-                  "Text":"",
-                  "Picture":"lance.jpg",
-				  "Pos":"left",
-				  "Legend":"Lance d'eau"
-               },
-               {
-                  "CatName":"",
-                  "Text":"",
+                  "CatName":"Décrets d'Azshara",
+                  "Text":"En plus de tout ceci, toutes les 45 secondes (moins en mythique), Azshara va lancer un décret qu'il va falloir respecter :<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span> : AOE vers le centre de la salle à soak par le raid toutes les 10 secondes sinon gros dégâts sur le raid<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_scrollunrolled02d.jpg\"/> <span class=\"color-yellow\"> Répétition de la performance</span> : Oblige à ne pas utiliser le même sort deux fois d'affilé sinon, la personne est silence pendant 2 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_elemental_eternal_water.jpg\"/> <span class=\"color-yellow\"> Isolez-vous</span> : Ne pas être à côté d'un de ses mates sinon ça inflige des dégâts aux deux<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_staticshock.jpg\"/> <span class=\"color-yellow\"> Peine ajournée</span> : Si vous restez immobile, vous emmaganisez des stacks. Quand vous bougez, vous prenez des dégâts de nature en fonction de votre nombre de stack et vous déstackez.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> : Les joueurs marqués auront un débuff qui les rend insensible aux soins pendant 5 secondes s'ils subissent des dégâts.<br><span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_bossfelorcs_necromancer_purple.jpg\"/> <span class=\"color-yellow\"> Sphère d’influence</span> : Les décrets sont boostés, en durée comme en dégats infligés et inflige des dégâts d'ombre supplémentaire</span>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
