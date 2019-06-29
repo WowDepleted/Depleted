@@ -479,6 +479,261 @@
 				  "Legend":""
                }
             ]
+         },
+		 {
+			"BossCode":"cour",
+            "BossRealName":"Cour de la reine",
+            "Picture":"cour.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Résumé",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Phase 1",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"ichor.jpg",
+				  "Pos":"",
+				  "Legend":"Ichor suintant"
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Interphase",
+                  "Text":"",
+                  "Picture":"interphase.jpg",
+				  "Pos":"",
+				  "Legend":"Interphase"
+               },
+               {
+                  "CatName":"Phase 2",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"lance.jpg",
+				  "Pos":"left",
+				  "Legend":"Lance d'eau"
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT TANK",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT HEAL",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT DPS",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         },
+		 {
+			"BossCode":"zaqui",
+            "BossRealName":"Za'qui, héraut de Ny'alotha",
+            "Picture":"zaqui.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Résumé",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Phase 1",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"ichor.jpg",
+				  "Pos":"",
+				  "Legend":"Ichor suintant"
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Interphase",
+                  "Text":"",
+                  "Picture":"interphase.jpg",
+				  "Pos":"",
+				  "Legend":"Interphase"
+               },
+               {
+                  "CatName":"Phase 2",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"lance.jpg",
+				  "Pos":"left",
+				  "Legend":"Lance d'eau"
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT TANK",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT HEAL",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT DPS",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         },
+		 {
+			"BossCode":"azshara",
+            "BossRealName":"Reine Azshara",
+            "Picture":"azshara.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Résumé",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Phase 1",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"ichor.jpg",
+				  "Pos":"",
+				  "Legend":"Ichor suintant"
+               },
+			   {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"Interphase",
+                  "Text":"",
+                  "Picture":"interphase.jpg",
+				  "Pos":"",
+				  "Legend":"Interphase"
+               },
+               {
+                  "CatName":"Phase 2",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"lance.jpg",
+				  "Pos":"left",
+				  "Legend":"Lance d'eau"
+               },
+               {
+                  "CatName":"",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT TANK",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT HEAL",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
+			   {
+                  "CatName":"STRAT DPS",
+                  "Text":"",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
          }
       ]
    }
