@@ -580,35 +580,14 @@
                },
 			   {
                   "CatName":"Phase 3",
-                  "Text":"La P3 commence quand des joueurs passent dans le royaume de l'aliéanation. Dans ce royaume, les joueurs gagnent 80% de hâte mais deviennent hostiles entre eux. Dans ce monde, une charge d'<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowworddominate.jpg\"/> <span class=\"color-yellow\"> Hystérie</span> est gagnée toutes les 6 secondes. Les dégâts mortels, au lieu de vous tuer, vous font quitter ce royaune et vous infligent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Détresse psychique</span>.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Détresse psychique</span> : Stun pendant 6 secondes. Dispellable.<br><br>Le boss fait encore <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_shadowfurytga.jpg\"/> <span class=\"color-yellow\"> Longe Mentale</span>, <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_priest_voidtendrils.jpg\"/> <span class=\"color-yellow\"> Étreinte broyeuse</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Effroi</span><br><br>Les boss lance aussi :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_yoggsaron_01.jpg\"/> <span class=\"color-yellow\"> Frappe tentaculaire</span> : Un tentacule frappe le sorts infligeant enormement de dégâts d'ombre et stun pendant 2 seonces.<br><br>La P4 commence lorsque le boss passe à 70% pv.",
+                  "Text":"La P3 commence quand des joueurs passent dans le royaume de l'aliéanation. Dans ce royaume, les joueurs gagnent 80% de hâte mais deviennent hostiles entre eux. Dans ce monde, une charge d'<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowworddominate.jpg\"/> <span class=\"color-yellow\"> Hystérie</span> est gagnée toutes les 6 secondes. Les dégâts mortels, au lieu de vous tuer, vous font quitter ce royaune et vous infligent <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Détresse psychique</span>.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Détresse psychique</span> : Stun pendant 6 secondes. Dispellable.<br><br>Le boss fait encore <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_shadowfurytga.jpg\"/> <span class=\"color-yellow\"> Longe Mentale</span>, <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_priest_voidtendrils.jpg\"/> <span class=\"color-yellow\"> Étreinte broyeuse</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_improvedsoulleech.jpg\"/> <span class=\"color-yellow\"> Effroi</span><br><br>Les boss lance aussi :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_yoggsaron_01.jpg\"/> <span class=\"color-yellow\"> Frappe tentaculaire</span> : Un tentacule frappe le sorts infligeant enormement de dégâts d'ombre et stun pendant 2 seonces.<br><br>La P4 commence lorsque le boss passe à 50% pv.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
-                  "CatName":"Interphase",
-                  "Text":"",
-                  "Picture":"interphase.jpg",
-				  "Pos":"",
-				  "Legend":"Interphase"
-               },
-               {
-                  "CatName":"Phase 2",
-                  "Text":"",
-                  "Picture":"",
-				  "Pos":"",
-				  "Legend":""
-               },
-               {
-                  "CatName":"",
-                  "Text":"",
-                  "Picture":"lance.jpg",
-				  "Pos":"left",
-				  "Legend":"Lance d'eau"
-               },
-               {
-                  "CatName":"",
-                  "Text":"",
+                  "CatName":"Phase 4",
+                  "Text":"Le boss lance deux nouveaux sorts :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_soulswap.jpg\"/> <span class=\"color-yellow\"> Effroi irrépressible</span> : Fear des joueurs aléatoires en infligeant un dot d'ombre toutes les secondes pendant 10 secondes. A l'expiration, inflige des bons dégats d'ombre au raid plus des dégats d'ombre aux joueurs proche de la position du joueur (7 mètres) à la fin du fear. Laisse une flaque d'<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_soulswap.jpg\"/> <span class=\"color-yellow\"> Aliénation caustique</span> à cet endroit.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_soulswap.jpg\"/> <span class=\"color-yellow\"> Aliénation caustique</span> : Inflige des dégats d'ombre de plus en plus important au joueur présent dans la zone. Accumuler plus de 5 charges de cet effet transporte le joueur dans le royaume de l'aliéanation et supprime l'<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_soulswap.jpg\"/> <span class=\"color-yellow\"> Aliénation caustique</span>.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_netherportal.jpg\"/> <span class=\"color-yellow\"> Passage sombre</span> : Créé un passage vers le royaume de la peur et fait apparaitre un <span class=\"color-dark-red\">Invocateur horrifique</span>. Tous les joueurs à moins de 8 mètres de la zone subissent de lourds dégâts d'ombre et sont fear pendant 6 secondes.<br><br>Le boss fait encore <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warlock_shadowfurytga.jpg\"/> <span class=\"color-yellow\"> Longe Mentale</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_priest_voidtendrils.jpg\"/> <span class=\"color-yellow\"> Étreinte broyeuse</span><br><br>En héroïque :<br>La première arcaniste Thalyssra ramène tout le monde dans la réalité et maintient un portail ouvert permettant de revenir des différents royaumes.<br>Za'qul se protège d'un bouclier de 5% de ses pvs max et incante un sort. Si le sort passe, c'est le wype. Pour l'éviter, il faut détruire son bouclier pour que le boss soit stun et donc que l'incantation soit interrompu.<br><br><span class=\"color-red\">En mythique :<br>La première arcaniste Thalyssra ramène tout le monde dans la réalité et succombe à la folie.<br>Za'qul crée dans plusieurs royaumes des images de lui-même qui canalise vers lui. A la fin de la canalisation, c'est le wype. Pour l'éviter, il faut tuer ses échos pour le stun et arrêter la canalisation. Tant que ses échos sont vivants, il est aussi insensilbe aux dégats. Voici ses différents échos :<br><span class=\"color-dark-red\">Écho de la peur</span> : Se trouve dans le royaume de la peur et incante :<br>Cri d'effroi : Fear les gens, infligeant un dot et une explosion à la fin du boss.<br><span class=\"color-dark-red\">Écho de l'aliénation</span> : Se trouve dans le royaume de l'aliénation et incante :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warrior_trauma.jpg\"/> <span class=\"color-yellow\"> Heurt du Vide</span> : Bump les gens qui sont dans un cône devant lui, infligeant de lourd dégats d'ombre.</span>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
