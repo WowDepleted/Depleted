@@ -173,11 +173,18 @@
 				  "Pos":"",
 				  "Legend":""
                }
+			   {
+                  "CatName":"STRAT COMMUNE",
+                  "Text":"Le raid sera séparé en deux groupes comme le montre la première image et sera positionné vers le centre de la salle.<br>Toutes les zones au sol devront être positionnées au maximum sur les bords de la salle.<br>La gestion des éclairs se fera comme suit : la personne ciblé se décalera vers le centre de la salle et deux cacs de la marqué opposée intercepteront l'éclair (1 pour soak, 1 pour libérer son coéquipier).<br>Pour la gestion de l'inversion, on utilisera deux symboles, un au cac, l'autre pour les distances. Les poisons devront passer du côté avant de leur symbole et les givres du côté arrière. Cela évitera que les gens se croisent.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
             ]
          },
 		 {
 			"BossCode":"behemoth",
-            "BossRealName":"Behemoth des flots noirs",
+            "BossRealName":"Béhémoth des flots noirs",
             "Picture":"behemoth.jpg",
 			"Video":"",
             "Strat":[
@@ -244,6 +251,13 @@
 				  "Pos":"",
 				  "Legend":""
                }
+			   {
+                  "CatName":"STRAT COMMUNE",
+                  "Text":"Tout le monde doit être à plus de 5 mètres les uns des autres.<br>Il y aura normalement 2 poissons par grotte et chaque phase dure normalement 1 minute 30. On tuera un poisson globle au début de chaque phase et un autre 45 secondes plus tard. Tous les dps et heals doivent aller dans la zone qui apparait quand le poisson meurt pour pouvoir être de nouveau soigné. Il faut faire attention que dans les grottes 2 et 3, il y a des trous d'où peuvent sortir des poissons qui vous one shot si vous êtes au dessus avec la bioluminescence.<br>En P2, ne passer pas près d'une méduse sous peine de oneshot.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
             ]
          },
 		 {
@@ -289,7 +303,7 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"<span class=\"color-dark-red\">Ame des tempêtes</span> : Un elementaire qui, quand il meurt, arrête la tempête et la P2. Il a plusieurs sorts :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_arcane_arcanepotency.jpg\" /> <span class=\"color-yellow\">Concentration de puissance</span> : Up de 500% ses dégâts. Interruptible.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_frost_arcticwinds.jpg\" /> <span class=\"color-yellow\">Fureur de vents</span> : AOE de givre + bump sur tout le raid à moins de 50 mètres.<br><br>Pendant la tempête, des <span class=\"color-dark-red\">Tourmentins</span> popent en boucle :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg\" /> <span class=\"color-yellow\">Chaines d'éclairs</span> : Inflige des dégâts de nature à une cible à moins de 20 mètres.<br><br>Le boss ne reste pas non plus inactif. Il lance :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/boss_odunrunes_purple.jpg\" /> <span class=\"color-yellow\">Piege de vent</span> : Pose un piege sous un mec. Pète au bout d'un moment (dégâts de givre + bump)<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span> : Attache une bombe sur un joueur. Si elle est dispel, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg\" /> <span class=\"color-yellow\">Fureur radieuse</span> : Inflige des dégats d'arcane et bump toute personne dans la zone du boss",
+                  "Text":"<span class=\"color-dark-red\">Ame des tempêtes</span> : Un elementaire qui, quand il meurt, arrête la tempête et la P2. Il a plusieurs sorts :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_arcane_arcanepotency.jpg\" /> <span class=\"color-yellow\">Concentration de puissance</span> : Up de 500% ses dégâts. Interruptible.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_frost_arcticwinds.jpg\" /> <span class=\"color-yellow\">Fureur de vents</span> : AOE de givre + bump sur tout le raid à moins de 50 mètres.<br><br>Pendant la tempête, des <span class=\"color-dark-red\">Tourmentins</span> popent en boucle :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg\" /> <span class=\"color-yellow\">Chaines d'éclairs</span> : Inflige des dégâts de nature à une cible à moins de 20 mètres.<br><br>Le boss ne reste pas non plus inactif. Il lance :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/boss_odunrunes_purple.jpg\" /> <span class=\"color-yellow\">Piege de vent</span> : Pose une ligne de pieges. Fait apparaitre une tornade et fais des dégâts d'arcane sur 3 personnes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span> : Attache une bombe sur un joueur. Si elle est dispel, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg\" /> <span class=\"color-yellow\">Fureur radieuse</span> : Inflige des dégats d'arcane et bump toute personne dans la zone du boss",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -311,6 +325,13 @@
 			   {
                   "CatName":"STRAT DPS",
                   "Text":"Être éloignés des autres membres du raid et s'isoler si vous avez la <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span>.<br>Focuxs l'<span class=\"color-dark-red\">Ame des tempêtes</span> sans négliger de réduire le nombre de <span class=\"color-dark-red\">Tourmentins</span><br>Être contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+			   {
+                  "CatName":"STRAT COMMUNE",
+                  "Text":"En P1, il faudra tourner autour du boss quand les tornades seront trop pénible.<br>Les bombes des arcanes doivent être dispell hors du raid.<br> En P2, chaque moitié du raid prendra un sens différent pour pouvoir trouver l'add le plus rapidement possible.<br>Un piège de vent doit être pris pour laisser un chemin disponible au raid.<br>Quand le gros add va faire son bump, le raid devra être, si possible, entre lui et un mur pour ne pas voler à l'autre bout de la salle. ",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -389,6 +410,13 @@
 			   {
                   "CatName":"STRAT DPS",
                   "Text":"Esquivez les zones au sol causées par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Giclée</span>.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_tidalwaves.jpg\" /> <span class=\"color-yellow\">Vague ondulante</span><br>Si vous êtes victime de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_reform.jpg\" /> <span class=\"color-yellow\">Bulle saumâtre</span>, regroupez-vous.<br>Essayez de détruire les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/trade_archaeology_fossil_snailshell.jpg\" /> <span class=\"color-yellow\">Excroissance de corail</span> si vous êtes atteint par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_azerite-area-denial.jpg\" /> <span class=\"color-yellow\">Arc d'azerite</span>.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+			   {
+                  "CatName":"STRAT COMMUNE",
+                  "Text":"Les personnes victimes de bulle saumâtre devront se regrouper au même endroit pour un dps plus facile sur eux.<br>Le boss va être bougé de tel manière à faire le tour de la salle.<br>Les vagues ondulantes doivent obligatoirement être soak avant d'avoir atteint le boss.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -474,6 +502,13 @@
 			   {
                   "CatName":"STRAT DPS",
                   "Text":"Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+			   {
+                  "CatName":"STRAT COMMUNE",
+                  "Text":"Les personnes victimes de fluide d'incubation doivent s'éloigner du raid en se regroupant.<br>Personne ne doit être collé, essayez de garder un peu de distance entre vous.<br>En P2, le focus des adds sera : Mastodonte -> Myrmidon -> Sorcière",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
