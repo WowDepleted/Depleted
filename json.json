@@ -663,6 +663,13 @@
 				  "Pos":"",
 				  "Legend":""
                },
+               {
+                  "CatName":"Phase 4",
+                  "Text":"La P4 est enfin dernière phase du raid commence. Azshara est maintenant toute seule et elle possède toujours les sorts : <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_seduction.jpg\"/> <span class=\"color-yellow\"> Appel</span>, <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_priest_shadoworbs.jpg\"/> <span class=\"color-yellow\"> Machinations titanesques</span>, <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_rogue_honoramongstthieves.jpg\"/> <span class=\"color-yellow\"> Revers de fortune supérieur</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_killcommand.jpg\"/> <span class=\"color-yellow\"> Diviser pour mieux régner</span>.<br><br>En plus de ces sorts, elle possède :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_polearm_2h_odynspear_d_01.jpg\"/> <span class=\"color-yellow\"> Regard perçant</span> : Un rayon faisant des dégats d'ombre<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/warlock_curse_shadow.jpg\"/> <span class=\"color-yellow\"> Touché par le vide</span> : Mécanique tank, infligeant des dégats d'ombre et réduisant de 10% les soins reçus pendant 30 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_netherportal.jpg\"/> <span class=\"color-yellow\"> Portail de Néant</span> : Aoe inglifeant des dégats d'ombre<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightningoverload.jpg\"/> <span class=\"color-yellow\"> Surcharge</span> : Azshara surchage la console des titans et devra être libérée de manière controlée. Pour se faire, il faudra appuyé sur un bouton, libérant un décharge d'energie faisant des dégats magique au raid et provoquant un effet supplémentaire inconnu.",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               },
 			   {
                   "CatName":"STRAT TANK",
                   "Text":"",
