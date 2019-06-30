@@ -1,0 +1,102 @@
+"bod":{
+      "RaidRealName":"Bataille Of Dazar'alor",
+      "Picture":"bod.jpg",
+      "Boss":[
+         {
+			"BossCode":"championne",
+            "BossRealName":"Championne de la lumière",
+            "Picture":"championne.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Toto",
+                  "Text":"le boss championne se déroule en 3 phases",
+                  "Picture":"p1.jjg",
+				  "Pos":"",
+				  "Legend":""
+				  
+               },
+               {
+                  "CatName":"J'aime le chocolat",
+                  "Text":"Il me faut du text",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         },
+         {
+			"BossCode":"gronk",
+            "BossRealName":"Gronk",
+            "Picture":"gronk.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"Le Gros Singe",
+                  "Text":"singe qui tape",
+                  "Picture":"p1.jjg",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"J'aime les kiwis",
+                  "Text":"Il me faut plus de text",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         }
+      ]
+   },
+   "sanctu":{
+      "RaidRealName":"Sanctuaire",
+      "Picture":"sanctu.jpg",
+      "Boss":[
+         {
+			"BossCode":"restlessCabal",
+            "BossRealName":"truc Bizar 1",
+            "Picture":"restlessCabal.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"1ere catégorie",
+                  "Text":"des items en raid ?",
+                  "Picture":"p1.jjg",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"un oss boss",
+                  "Text":"Un tank distant",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         },
+         {
+			"BossCode":"uunat",
+            "BossRealName":"Truc encore plus space",
+            "Picture":"uunat.jpg",
+			"Video":"",
+            "Strat":[
+               {
+                  "CatName":"machin",
+                  "Text":"machin qui tape",
+                  "Picture":"p1.jjg",
+				  "Pos":"",
+				  "Legend":""
+               },
+               {
+                  "CatName":"DAWA",
+                  "Text":"LE Dawa",
+                  "Picture":"",
+				  "Pos":"",
+				  "Legend":""
+               }
+            ]
+         }
+      ]
+   },
+   
