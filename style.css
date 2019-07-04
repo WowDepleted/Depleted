@@ -196,6 +196,10 @@ a{
 	margin-left: 10px;
 }
 
+#strat > .cat-content > .cat-text > .icontinyl{
+	color:#ffd100;
+} 
+
 #strat > .cat-content > .cat-strat-img {
     background-color: rgba(0,0,0,0.4);
     padding: 5px;

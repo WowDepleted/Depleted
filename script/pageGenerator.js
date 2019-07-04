@@ -9,6 +9,36 @@ function cleanPage() {
     $("#main-content").text("");
 }
 
+function formatWowHeadLinks(divText){
+	var linkImg = "https://wow.zamimg.com/images/wow/icons/small/";
+	var linkSpell = "https://fr.wowhead.com/spell=";
+	
+	var iconImg = $("<img/>").attr("class", "icon");
+	var linkA = $("<a/>").attr("target","blank");
+	var nameSpan = $("<span/>").attr("class","color-yellow");
+	spellDivs = divText.find("spell");
+	console.log(spellDivs);
+	divText.find("spell").each(function(){
+		var id = this.getAttribute("id");
+		var icon = this.getAttribute("icon");
+		var text = " " + this.innerText;
+		
+		var myIconImg = iconImg.clone()
+						.attr("src",linkImg+icon);
+		var myLinkA = linkA.clone()
+						.attr("href",linkSpell+id)
+						.attr("data-wowhead","spell="+id+";domain='fr'");
+		var myNameSpan = nameSpan.clone()
+						.html(text);
+		myLinkA.append(myIconImg)
+			   .append(myNameSpan);
+		this.innerHTML="";
+		$(this).append(myLinkA);
+		//spell.text("coucou");
+	});
+	return divText;
+}
+
 function getCurrentPage() {
     var url = window.location.href;
     if (url.indexOf('#') == -1) {
@@ -162,7 +192,10 @@ function generateStratPage(data, raidName, bossName) {
             .append(divImage);
         if (partie["Legend"].length > 0)
             divImgLegende.append(divLegend);
-
+		
+		if(divText.html.length > 0){
+			divText = formatWowHeadLinks(divText);
+		}
         divContent.append(divText);
         if (partie["Picture"].length > 0) {
             divContent.append(divImgLegende);
@@ -176,7 +209,6 @@ function generateStratPage(data, raidName, bossName) {
         divStrat.append(divContent);
     });
 }
-
 
 function generatePageFromJson(menu = true) {
     var pageName = getCurrentPage()
