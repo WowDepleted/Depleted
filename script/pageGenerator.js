@@ -34,7 +34,6 @@ function formatWowHeadLinks(divText){
 			   .append(myNameSpan);
 		this.innerHTML="";
 		$(this).append(myLinkA);
-		//spell.text("coucou");
 	});
 	return divText;
 }

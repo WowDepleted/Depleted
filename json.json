@@ -25,7 +25,7 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"<br>Au pull, le boss va lancer :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/artifactability_marksmanhunter_legacyofthewindrunners.jpg\" /> <span class=\"color-yellow\">Marques Chimeriques</span> : Met une <spell id='294711' icon='inv_misc_frostemblem_01.jpg'>Marque de givre</spell> ou une <spell id='294715' icon='ability_creature_disease_02.jpg'>Marque toxique</spell> sur chacun des raideurs.<br><span class=\"color-red\">Le boss relance le sort pendant le combat pour faire accumuler les stacks sur le raid. Vous ne pouvez pas être ciblé par une autre marque que la votre avec ce sort.</span><br><br>Les personnes de givre iront à droite de la salle et ceux toxiques iront à gauche comme le montre le schema.",
+                  "Text":"<br>Au pull, le boss va lancer :<br><spell id='294726' icon='artifactability_marksmanhunter_legacyofthewindrunners.jpg'>Marques Chimeriques</spell> : Met une <spell id='294711' icon='inv_misc_frostemblem_01.jpg'>Marque de givre</spell> ou une <spell id='294715' icon='ability_creature_disease_02.jpg'>Marque toxique</spell> sur chacun des raideurs.<br><span class=\"color-red\">Le boss relance le sort pendant le combat pour faire accumuler les stacks sur le raid. Vous ne pouvez pas être ciblé par une autre marque que la votre avec ce sort.</span><br><br>Les personnes de givre iront à droite de la salle et ceux toxiques iront à gauche comme le montre le schema.",
                   "Picture":"positionnement.jpg",
 				  "Pos":"left",
 				  "Legend":"Positionnement du raid"
