@@ -124,7 +124,7 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"Pourquoi traversons-nous ce terrible passage ? Car le boss est apparu de l'autre cote ... Mais pas que. Il cast aussi <spell id='292084' icon='ty_shawaterelemental_reform.jpg'>Cavitation</spell> qui doit etre decast avant la fin sinon c'est le wype. On pourra attendre la fin du cast, le temps que tout le monde ait traversé (et qu'on puisse le taper un peu).<br><br>Une fois cette phase finie, on repasse en P1 et on recommence.",
+                  "Text":"Pourquoi traversons-nous ce terrible passage ? Car le boss est apparu de l'autre cote ... Mais pas que. Il cast aussi <spell id='292084' icon='ability_shawaterelemental_reform.jpg'>Cavitation</spell> qui doit etre decast avant la fin sinon c'est le wype. On pourra attendre la fin du cast, le temps que tout le monde ait traversé (et qu'on puisse le taper un peu).<br><br>Une fois cette phase finie, on repasse en P1 et on recommence.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -174,35 +174,35 @@
                },
                {
                   "CatName":"Phase 1",
-                  "Text":"La P1 est la phase où le boss peut-être tapé. Le boss, n'aimant pas qu'on lui caresse son corps d'eau, a comme capacité :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg\" /> <span class=\"color-yellow\">Fureur radieuse</span> : Inflige des dégâts d'arcane et bump toute personne dans la zone du boss.",
+                  "Text":"La P1 est la phase où le boss peut-être tapé. Le boss, n'aimant pas qu'on lui caresse son corps d'eau, a comme capacité :<br><spell id='299093' icon='Ability_mage_netherwindpresence.jpg'>Fureur rayonnante</spell> : Inflige des dégâts d'arcane et bump toute personne dans la zone du boss.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"",
-                  "Text":"Sur le raid, il peut lancer trois sorts : <br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_tradeskillitem_sorcererswind.jpg\" /> <span class=\"color-yellow\">Explosion arcanique</span> : Tire des projectiles de givre sur 3 personnes et créé à l'endroit de l'impact une tornade arcanique.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_druid_galewinds.jpg\" /> <span class=\"color-yellow\">Tornade arcanique</span> : Inflige des dégâts de givre et bump<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span> : Attache une bombe sur un joueur. Si elle est dispell, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg\" /> <span class=\"color-yellow\">Dechainement de puissance</span> : AOE d'arcane sur les raiders.",
+                  "Text":"Sur le raid, il peut lancer trois sorts : <br><spell id='296449' icon='inv_tradeskillitem_sorcererswind.jpg'>Explosion arcanique</spell> : Tire des projectiles de givre sur 3 personnes et créé à l'endroit de l'impact une <spell id='296421' icon='ability_druid_galewinds.jpg'>Tornade arcanique</spell>.<br><spell id='296421' icon='ability_druid_galewinds.jpg'>Tornade arcanique</spell> : Inflige des dégâts de givre et bump<br><br><spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell> : Attache une bombe sur un joueur. Si elle est dispell, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><br><spell id='296894' icon='spell_arcane_blast.jpg'>Dechainement de puissance</spell> : AOE d'arcane sur les raiders.",
                   "Picture":"bombe.jpg",
 				  "Pos":"",
 				  "Legend":"Bombe des arcanes"
                },
 			   {
                   "CatName":"",
-                  "Text":"1 mécanique sur les tanks :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv__fistofthewhitetiger.jpg\" /> <span class=\"color-yellow\">Poings des flots</span> : Attaque le tank et lui pose un débuff de 200% d'augmentation des dégâts subis",
+                  "Text":"1 mécanique sur les tanks :<br><spell id='296566' icon='inv__fistofthewhitetiger.jpg'>Poing des flots</spell> : Attaque le tank et lui pose un débuff de 200% d'augmentation des dégâts subis",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
                   "CatName":"Phase 2",
-                  "Text":"La P2 est un genre de transition où on est dans une tempête. <br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_skyreach_four_wind.jpg\" /> <span class=\"color-yellow\">Tempête ancienne</span> : Dégâts subits réduits sur le boss de 99%. C'est comme un cyclone, la tempête possède un oeil qui est une zone safe ainsi que des vents tournoyants. Fait pop une <span class=\"color-dark-red\">Ame des tempêtes</span> dans l'oeil et des <span class=\"color-dark-red\">Tourmentins</span>.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_volatileair.jpg\" /> <span class=\"color-yellow\">Vents tournoyants</span> : La visibilité est réduite et chaque personne dans les vents prennent 10% de leur PV toutes les 2 secondes.",
+                  "Text":"La P2 est un genre de transition où on est dans une tempête. <br><br><spell id='295916' icon='ability_skyreach_four_wind.jpg'>Tempête ancienne</spell> : Dégâts subits réduits sur le boss de 99%. C'est comme un cyclone, la tempête possède un oeil qui est une zone safe ainsi que des <spell id='296389' icon='inv_misc_volatileair.jpg'>Vents tournoyants</spell>. Fait pop une <span class=\"color-dark-red\">Ame des tempêtes</span> dans l'oeil et des <spell id='296389' icon='inv_misc_volatileair.jpg'>Vents tournoyants</spell> : La visibilité est réduite et chaque personne dans les vents prennent 10% de leur PV toutes les 2 secondes.",
                   "Picture":"vents.jpg",
 				  "Pos":"left",
 				  "Legend":"Vents tournoyants"
                },
 			   {
                   "CatName":"",
-                  "Text":"<span class=\"color-dark-red\">Ame des tempêtes</span> : Un elementaire qui, quand il meurt, arrête la tempête et la P2. Il a plusieurs sorts :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_arcane_arcanepotency.jpg\" /> <span class=\"color-yellow\">Concentration de puissance</span> : Up de 500% ses dégâts. Interruptible.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_frost_arcticwinds.jpg\" /> <span class=\"color-yellow\">Fureur de vents</span> : AOE de givre + bump sur tout le raid à moins de 50 mètres.<br><br>Pendant la tempête, des <span class=\"color-dark-red\">Tourmentins</span> popent en boucle :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg\" /> <span class=\"color-yellow\">Chaines d'éclairs</span> : Inflige des dégâts de nature à une cible à moins de 20 mètres.<br><br>Le boss ne reste pas non plus inactif. Il lance :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/boss_odunrunes_purple.jpg\" /> <span class=\"color-yellow\">Piege de vent</span> : Pose une ligne de pièges. Fait apparaitre une tornade et fait des dégâts d'arcane sur 3 personnes.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span> : Attache une bombe sur un joueur. Si elle est dispell, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg\" /> <span class=\"color-yellow\">Fureur radieuse</span> : Inflige des dégâts d'arcane et bump toute personne dans la zone du boss.",
+                  "Text":"<span class=\"color-dark-red\">Ame des tempêtes</span> : Un elementaire qui, quand il meurt, arrête la tempête et la P2. Il a plusieurs sorts :<br><spell id='304951' icon='spell_arcane_arcanepotency.jpg'>Concentration de puissance</spell> : Up de 500% ses dégâts. Interruptible.<br><spell id='296701' icon='spell_frost_arcticwinds.jpg'>Fureur de vents</spell> : AOE de givre + bump sur tout le raid à moins de 50 mètres.<br><br>Pendant la tempête, des <span class=\"color-dark-red\">Tourmentins<spell id='296673' icon='spell_nature_lightning.jpg'>Chaîne d’éclairs</spell> : Inflige des dégâts de nature à une cible à moins de 20 mètres.<br><br>Le boss ne reste pas non plus inactif. Il lance :<br><spell id='296462' icon='boss_odunrunes_purple.jpg'>Piege de vent</spell> : Pose une ligne de pièges. Fait apparaitre une tornade et fait des dégâts d'arcane sur 3 personnes.<br><spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell> : Attache une bombe sur un joueur. Si elle est dispell, elle tombe par terre et son compte à rebours continue. A l'explosion, inflige des dégâts d'arcane et stun pendant 6 secondes les gens sur 10 mètres.<br><spell id='299093' icon='Ability_mage_netherwindpresence.jpg'>Fureur rayonnante</spell> : Inflige des dégâts d'arcane et bump toute personne dans la zone du boss.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -216,14 +216,14 @@
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Les healers devront dispell les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span> quand la personne sera isolée et avant que la bombe n'explose.<br>Restez éloignés des autres membres du raid et s'isoler si vous avez la <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span>.<br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Text":"Les healers devront dispell les <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell> quand la personne sera isolée et avant que la bombe n'explose.<br>Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Restez éloignés des autres membres du raid et s'isoler si vous avez la <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essencearcanesmall.jpg\" /> <span class=\"color-yellow\">Bombe des arcanes</span>.<br>Focus l'<span class=\"color-dark-red\">Ame des tempêtes</span> sans négliger de réduire le nombre de <span class=\"color-dark-red\">Tourmentins</span><br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Text":"Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Focus l'<span class=\"color-dark-red\">Ame des tempêtes</span> sans négliger de réduire le nombre de <span class=\"color-dark-red\">Tourmentins</span><br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
