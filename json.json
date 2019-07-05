@@ -39,35 +39,35 @@
                },
 			   {
                   "CatName":"",
-                  "Text":"Le boss lance aussi durant le combat des :<br><spell id='295704' icon='inv_polearm_2h_misc_spearfishingrod.jpg'>Éclair de givre</spell> et <spell id='295705' icon='inv_spear_02.jpg'>Éclair toxique</spell> : Tire sur une personne aléatoire et l'immobilise. Si un joueur est touché par un eclair d'un type différent à sa marque, ça déclenche le <spell id='294847' icon='ability_demonhunter_chaosnova.jpg'>Mélange instable</spell>.<br>Cette technique doit être intercepté par une personne ayant la bonne marque. Et cette personne doit être libérée en cliquant sur le javelot sur son corps.<br><br>Le boss pourra aussi lancer le sort :<br><spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell> : Inverse le type de marque de certaines personnes et de toutes les zones au sol.<br>Les joueurs seront alors immobilisés et au bout de 4 secondes, les joueurs exploseront et propageront leurs marques aux joueurs à moins de 4 mètres.<br><br>2 attaques sont liées au tank :<br><spell id='295332' icon='spell_nature_earthquake-and-dead.jpg'>Réverberation écrasante</spell> : Une attaque où les cacs qui ont la meme marque que le tank actif vont devoir soak. Puis, le raid est bump<br><spell id='300698' icon='inv_polearm_2h_kthirrelic_d_01-and-dead.jpg'>Pointe de givre-venin</spell> : Dot cumulable qui à expiration créait une zone au sol.",
+                  "Text":"Le boss lance aussi durant le combat des :<br><spell id='295704' icon='inv_polearm_2h_misc_spearfishingrod.jpg'>Éclair de givre</spell> et <spell id='295705' icon='inv_spear_02.jpg'>Éclair toxique</spell> : Tire sur une personne aléatoire et l'immobilise. Si un joueur est touché par un eclair d'un type différent à sa marque, ça déclenche le <spell id='294847' icon='ability_demonhunter_chaosnova.jpg'>Mélange instable</spell>.<br>Cette technique doit être intercepté par une personne ayant la bonne marque. Et cette personne doit être libérée en cliquant sur le javelot sur son corps.<br><br>Le boss pourra aussi lancer le sort :<br><spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell> : Inverse le type de marque de certaines personnes et de toutes les zones au sol.<br>Les joueurs seront alors immobilisés et au bout de 4 secondes, les joueurs exploseront et propageront leurs marques aux joueurs à moins de 4 mètres.<br><br>2 attaques sont liées au tank :<br><spell id='295332' icon='spell_nature_earthquake.jpg'>Réverberation écrasante</spell> : Une attaque où les cacs qui ont la meme marque que le tank actif vont devoir soak. Puis, le raid est bump<br><spell id='300698' icon='inv_polearm_2h_kthirrelic_d_01.jpg'>Pointe de givre-venin</spell> : Dot cumulable qui à expiration créait une zone au sol.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"",
-                  "Text":"<br><br>A 100 points d'énergie, le boss lance :<br><spell id='295138' icon='hunter_pvp_vipersting-and-dead.jpg'>Barrage accablant</spell> : Le boss tire une volée de traits geles et empoisonnees qui declenche le <spell id='294847' icon='ability_demonhunter_chaosnova.jpg'>Mélange instable</spell> si un joueur est touché par un trait d'un type différent à sa marque.<br>Ce sort doit etre esquivé.<br>",
+                  "Text":"<br><br>A 100 points d'énergie, le boss lance :<br><spell id='295138' icon='hunter_pvp_vipersting.jpg'>Barrage accablant</spell> : Le boss tire une volée de traits geles et empoisonnees qui declenche le <spell id='294847' icon='ability_demonhunter_chaosnova.jpg'>Mélange instable</spell> si un joueur est touché par un trait d'un type différent à sa marque.<br>Ce sort doit etre esquivé.<br>",
                   "Picture":"barrage.jpg",
 				  "Pos":"left",
 				  "Legend":"Barrage accablant"
                },
 			   {
                   "CatName":"STRAT TANK",
-                  "Text":"Chaque tank doit être du côté de son type de marque (voir schéma précédent).<br>Un swap en fonction du dot posé par <spell id='300698' icon='inv_polearm_2h_kthirrelic_d_01-and-dead.jpg'>Pointe de givre-venin</spell> est à effectuer. Une fois le swap fait, le tank doit poser sa flaque au loin.",
+                  "Text":"Chaque tank doit être du côté de son type de marque (voir schéma précédent).<br>Un swap en fonction du dot posé par <spell id='300698' icon='inv_polearm_2h_kthirrelic_d_01.jpg'>Pointe de givre-venin</spell> est à effectuer. Une fois le swap fait, le tank doit poser sa flaque au loin.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Aucun dispel sur les tanks ne doit être fait, sauf si on vous le demande.<br>Les heals doivent être du bon côté de la salle, en fonction du type de votre marque.<br>Si un mate ayant votre type de marque est affecté par <spell id='295346' icon='sha_ability_warrior_bloodnova_nightmare.jpg'>Débordement</spell>, soakez les dégâts et sortez de l'aoe.<br>En cas d'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, ne restez pas à côté de ceux qui vont être inversés.<br>Si le boss envoie un éclair d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <spell id='295138' icon='hunter_pvp_vipersting-and-dead.jpg'>Barrage accablant</spell>.<br>",
+                  "Text":"Aucun dispel sur les tanks ne doit être fait, sauf si on vous le demande.<br>Les heals doivent être du bon côté de la salle, en fonction du type de votre marque.<br>Si un mate ayant votre type de marque est affecté par <spell id='295346' icon='sha_ability_warrior_bloodnova_nightmare.jpg'>Débordement</spell>, soakez les dégâts et sortez de l'aoe.<br>En cas d'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, ne restez pas à côté de ceux qui vont être inversés.<br>Si le boss envoie un éclair d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <spell id='295138' icon='hunter_pvp_vipersting.jpg'>Barrage accablant</spell>.<br>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Les DPS doivent être du bon côté de la salle, en fonction du type de votre marque.<br>Si un mate ayant votre type de marque est affecte par <spell id='295346' icon='sha_ability_warrior_bloodnova_nightmare.jpg'>Débordement</spell>, soakez les degats et sortez de l'aoe.<br>En cas d'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, ne restez pas à côté de ceux qui vont être inversés.<br>Si le boss envoie un éclair d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <spell id='295138' icon='hunter_pvp_vipersting-and-dead.jpg'>Barrage accablant</spell>.<br>",
+                  "Text":"Les DPS doivent être du bon côté de la salle, en fonction du type de votre marque.<br>Si un mate ayant votre type de marque est affecte par <spell id='295346' icon='sha_ability_warrior_bloodnova_nightmare.jpg'>Débordement</spell>, soakez les degats et sortez de l'aoe.<br>En cas d'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, ne restez pas à côté de ceux qui vont être inversés.<br>Si le boss envoie un éclair d'un autre type que sa marque (et de votre marque), interceptez le.<br>Esquivez les <spell id='295138' icon='hunter_pvp_vipersting.jpg'>Barrage accablant</spell>.<br>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
