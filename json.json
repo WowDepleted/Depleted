@@ -429,35 +429,35 @@
                },
                {
                   "CatName":"Silivaz le Zélé",
-                  "Text":"C'est le monsieur. Il a une capacité tank et deux autres :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warrior_incite.jpg\"/> <span class=\"color-yellow\"> Fureur du commandant</span> : Gagne 8% de vitesse d'attaque à chaque auto sur la même cible.",
+                  "Text":"C'est le monsieur. Il a une capacité tank et deux autres :<br><spell id='299563' icon='ability_warrior_incite.jpg'>Fureur du commandant</spell> : Gagne 8% de vitesse d'attaque à chaque auto sur la même cible.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
                   "CatName":"",
-                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> : Charge une cible qui fait des dégâts de givre soakables. Au point d'impact, une Rupture puissante est créée.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/shaman_pvp_ripplingwaters.jpg\"/> <span class=\"color-yellow\"> Rupture puissante</span> : Aoe de givre qui reste jusqu'à la fin du combat.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\"/> <span class=\"color-yellow\"> Éruption zélée</span> : Aoe de givre sur le raid qui dure 10 secondes. Pour ne pas prendre de dégâts, il faut aller dans un bouclier qui entoure le boss.",
+                  "Text":"<spell id='299914' icon='ability_hunter_mastermarksman.jpg'>Charge frénétique</spell> : Charge une cible qui fait des dégâts de givre soakables. Au point d'impact, une Rupture puissante est créée.<br><spell id='300545' icon='shaman_pvp_ripplingwaters.jpg'>Rupture puissante</spell> : Aoe de givre qui reste jusqu'à la fin du combat.<br><br><spell id='301807' icon='ability_mage_waterjet.jpg'>Éruption zélée</spell> : Aoe de givre sur le raid qui dure 10 secondes. Pour ne pas prendre de dégâts, il faut aller dans un bouclier qui entoure le boss.",
                   "Picture":"eruption.jpg",
 				  "Pos":"",
 				  "Legend":"Éruption zélée"
                },
 			   {
                   "CatName":"Pashmar la Fanatique",
-                  "Text":"C'est la madame. Elle possède aussi une seule capacité tank et 4 abilités raid :<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_nagafemale.jpg\"/> <span class=\"color-yellow\"> Toucher de Pashmar</span> : Débuff sur le tank qui se stack à chaque auto. A 10 stacks, le tank est CM.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightningoverload.jpg\"/> <span class=\"color-yellow\"> Onde violente</span> : Aoe de Nature sur le raid. Plus les joueurs sont loin du boss, moins ils subissent de dégâts.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_electrocharge.jpg\"/> <span class=\"color-yellow\"> Eclair de zèle</span> : Fait des dégâts de nature sur une cible<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_nature_unrelentingstorm.jpg\"/> <span class=\"color-yellow\"> Verdict radical</span> : Débuff de nature qui explose et fait des dégâts à toute personne à 6 mètres.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_thunderking_balllightning.jpg\"/> <span class=\"color-yellow\"> Étincelle puissante</span> : Invoque 3 étincelles qui lorsqu'elles sont détruites font des dégâts sur le raid et augmentent les prochains dégâts des autres étincelles de 100% pendant 5 secondes.",
+                  "Text":"C'est la madame. Elle possède aussi une seule capacité tank et 4 abilités raid :<br><br><spell id='301829' icon='inv_misc_nagafemale.jpg'>Toucher de Pashmar</spell> : Débuff sur le tank qui se stack à chaque auto. A 10 stacks, le tank est CM.<br><br><spell id='297325' icon='spell_nature_lightningoverload.jpg'>Onde violente</spell> : Aoe de Nature sur le raid. Plus les joueurs sont loin du boss, moins ils subissent de dégâts.<br><br><spell id='300395' icon='ability_vehicle_electrocharge.jpg'>Éclair de zèle</spell> : Fait des dégâts de nature sur une cible<br><br><spell id='296850' icon='spell_nature_unrelentingstorm.jpg'>Verdict radical</spell> : Débuff de nature qui explose et fait des dégâts à toute personne à 6 mètres.<br><br><spell id='301947' icon='ability_thunderking_balllightning.jpg'>Étincelle puissante</spell> : Invoque 3 étincelles qui lorsqu'elles sont détruites font des dégâts sur le raid et augmentent les prochains dégâts des autres étincelles de 100% pendant 5 secondes.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"Décrets d'Azshara",
-                  "Text":"En plus de tout ceci, toutes les 45 secondes (moins en mythique), Azshara va lancer un décret qu'il va falloir respecter :<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span> : AOE vers le centre de la salle à soak par le raid toutes les 10 secondes sinon gros dégâts sur le raid<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_scrollunrolled02d.jpg\"/> <span class=\"color-yellow\"> Répétition de la performance</span> : Oblige à ne pas utiliser le même sort deux fois d'affilé sinon, la personne est silence pendant 2 secondes<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_elemental_eternal_water.jpg\"/> <span class=\"color-yellow\"> Isolez-vous</span> : Ne pas être à côté d'un de ses mates sinon ça inflige des dégâts aux deux<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shaman_staticshock.jpg\"/> <span class=\"color-yellow\"> Peine ajournée</span> : Si vous restez immobile, vous emmaganisez des stacks. Quand vous bougez, vous prenez des dégâts de nature en fonction de votre nombre de stack et vous déstackez.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> : Les joueurs marqués auront un débuff qui les rend insensible aux soins pendant 5 secondes s'ils subissent des dégâts.",
+                  "Text":"En plus de tout ceci, toutes les 45 secondes (moins en mythique), Azshara va lancer un décret qu'il va falloir respecter :<br><br><spell id='298050' icon='spell_holy_prayerofhealing.jpg'>En formation</spell> : AOE vers le centre de la salle à soak par le raid toutes les 10 secondes sinon gros dégâts sur le raid<br><spell id='304409' icon='inv_misc_scrollunrolled02d.jpg'>Répétition de la performance</spell> : Oblige à ne pas utiliser le même sort deux fois d'affilé sinon, la personne est silence pendant 2 secondes<br><spell id='304409' icon='inv_elemental_eternal_water.jpg'>Isolez-vous</spell> : Ne pas être à côté d'un de ses mates sinon ça inflige des dégâts aux deux<br><spell id='304128' icon='spell_shaman_staticshock.jpg'>Peine ajournée</spell> : Si vous restez immobile, vous emmaganisez des stacks. Quand vous bougez, vous prenez des dégâts de nature en fonction de votre nombre de stack et vous déstackez.<br><spell id='297585' icon='spell_shadow_painandsuffering.jpg'>Obéissez ou souffrez</spell> : Les joueurs marqués auront un débuff qui les rend insensible aux soins pendant 5 secondes s'ils subissent des dégâts.",
                   "Picture":"formation.jpg",
 				  "Pos":"",
 				  "Legend":"En formation"
                },
 			   {
                   "CatName":"",
-                  "Text":"<span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_bossfelorcs_necromancer_purple.jpg\"/> <span class=\"color-yellow\"> Sphère d’influence</span> : Les décrets sont boostés, en durée comme en dégâts infligés et inflige des dégâts d'ombre supplémentaire</span>",
+                  "Text":"<span class=\"color-red\"><spell id='303306' icon='ability_bossfelorcs_necromancer_purple.jpg'>Sphère d’influence</spell> : Les décrets sont boostés, en durée comme en dégâts infligés et inflige des dégâts d'ombre supplémentaire</span>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
@@ -471,14 +471,14 @@
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_shadow_painandsuffering.jpg\"/> <span class=\"color-yellow\"> Obéissez ou souffrez</span> est votre plus grand ennemi, prevoyez-le.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> hors du raid et le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span>",
+                  "Text":"Remontez tout le monde avant de détruire les étincelles.<br>Le décret <spell id='297585' icon='spell_shadow_painandsuffering.jpg'>Obéissez ou souffrez</spell> est votre plus grand ennemi, prevoyez-le.<br>Pensez à soak les <spell id='299914' icon='ability_hunter_mastermarksman.jpg'>Charge frénétique</spell> hors du raid et le décret <spell id='298050' icon='spell_holy_prayerofhealing.jpg'>En formation</spell>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Ne détruisez pas toutes les étincelles en même temps.<br>Pensez à soak les <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_hunter_mastermarksman.jpg\"/> <span class=\"color-yellow\"> Charge frénétique</span> hors du raid et le décret <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_holy_prayerofhealing.jpg\"/> <span class=\"color-yellow\"> En formation</span>",
+                  "Text":"Ne détruisez pas toutes les étincelles en même temps.<br>Pensez à soak les <spell id='299914' icon='ability_hunter_mastermarksman.jpg'>Charge frénétique</spell> hors du raid et le décret <spell id='298050' icon='spell_holy_prayerofhealing.jpg'>En formation</spell>",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
