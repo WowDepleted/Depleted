@@ -77,7 +77,7 @@
                   "Text":"Le raid sera séparé en deux groupes comme le montre la première image et sera positionné vers le centre de la salle.<br>Toutes les zones au sol devront être positionnées au maximum sur les bords de la salle.<br>La gestion des éclairs se fera comme suit : la personne ciblée se décalera vers le centre de la salle et deux cacs de la marqué opposée intercepteront l'éclair (1 pour soak, 1 pour libérer son coéquipier).<br>Pour la gestion de l'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, on utilisera deux symboles, un au cac, l'autre pour les distances. Les poisons devront passer du côté avant de leur symbole et les givres du côté arrière. Cela évitera que les gens se croisent.",
                   "Picture":"position.jpg",
 				  "Pos":"",
-				  "Legend":""
+				  "Legend":"Mouvements globaux du raid"
                }
             ]
          },
@@ -337,28 +337,28 @@
                },
                {
                   "CatName":"Phase 1",
-                  "Text":"Le combat est particulier pour les tanks à cause de cette capacité :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_poisonsting.jpg\" /> <span class=\"color-yellow\">Piqûre insensibilisante</span> : Debuff sur les tanks cumulable 9 fois. Chaque stack réduit de 10% les dégâts subits. A 10 stacks, le tank subit <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_organ_01.jpg\" /> <span class=\"color-yellow\">Paralysie pétrifiante</span><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_organ_01.jpg\" /> <span class=\"color-yellow\">Paralysie pétrifiante</span> : Le joueur meurt d'une crise cardiaque !",
+                  "Text":"Le combat est particulier pour les tanks à cause de cette capacité :<br><spell id='298156' icon='ability_poisonsting.jpg'>Piqûre insensibilisante</spell> : Debuff sur les tanks cumulable 9 fois. Chaque stack réduit de 10% les dégâts subits. A 10 stacks, le tank subit <spell id='298164' icon='inv_misc_organ_01.jpg'>Paralysie pétrifiante</spell><br><spell id='298164' icon='inv_misc_organ_01.jpg'>Paralysie pétrifiante</spell> : Le joueur meurt d'une crise cardiaque !",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"",
-                  "Text":"Le boss lance aussi des sorts sur le raid :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/spell_yorsahj_bloodboil_black.jpg\" /> <span class=\"color-yellow\">Ichor suintant</span> : Des aoes de nature dans la salle à esquiver<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span> : Le boss gicle sur des joueurs aléatoires et leur met un dot.<br><br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_thunderking_lightningwhip.jpg\" /> <span class=\"color-yellow\">Arc conducteur</span> : Crée un arc électrique entre 3 joueurs étant affectés par le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>. Tout autre joueur se prenant l'arc sera affecté par le <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>.",
+                  "Text":"Le boss lance aussi des sorts sur le raid :<br><spell id='298103' icon='spell_yorsahj_bloodboil_black.jpg'>Ichor suintant</spell> : Des aoes de nature dans la salle à esquiver<br><br><spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell> : Le boss gicle sur des joueurs aléatoires et leur met un dot.<br><br><spell id='295825' icon='ability_thunderking_lightningwhip.jpg'>Arc conducteur</spell> : Crée un arc électrique entre 3 joueurs étant affectés par le <spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell>. Tout autre joueur se prenant l'arc sera affecté par le <spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell>.",
                   "Picture":"ichor.jpg",
 				  "Pos":"",
 				  "Legend":"Ichor suintant"
                },
 			   {
                   "CatName":"",
-                  "Text":"<img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span> : Buff ses adds en dégâts et en réduction de dégâts subits de 50%.<br><br>Orgozoa invoque aussi des <span class=\"color-dark-red\">Zoatroïde</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_stormlordsfavor.jpg\" /> <span class=\"color-yellow\">Décharge étendue</span> : dégâts de nature en aoe sur le raid.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> : Zone a soak au bout de 5 sec une fois l'add mort. Cette zone doit être soak par un tank avec plein de stack ou par une personne avec un cd défensif (bulle, iceblock)<br><br><span class=\"color-red\"><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /><span class=\"color-yellow\">Appel du Gardien</span> : Invoque des <span class=\"color-dark-red\">Zoatroïde</span> de manière régulière.</span><br><br>La P1 va se dérouler comme suit en héroïque : il y aura 3 <span class=\"color-yellow\">Ichor suintant</span> qui seront à chaque fois suivis par le pop des adds. L'interphase commence lors du 3ième pop d'add.",
+                  "Text":"<spell id='304280' icon='achievement_boss_orgozoa.jpg'>Croissance chaotique</spell> : Buff ses adds en dégâts et en réduction de dégâts subits de 50%.<br><br>Orgozoa invoque aussi des <span class=\"color-dark-red\">Zoatroïde</span> :<br><spell id='295161' icon='inv_misc_stormlordsfavor.jpg'>Décharge étendue</spell> : dégâts de nature en aoe sur le raid.<br><spell id='298430' icon='ability_mage_waterjet.jpg'>Projection amniotique</spell> : Zone a soak au bout de 5 sec une fois l'add mort. Cette zone doit être soak par un tank avec plein de stack ou par une personne avec un cd défensif (bulle, iceblock)<br><br><span class=\"color-red\"><spell id='305057' icon='achievement_boss_orgozoa.jpg'>Appel du Gardien</spell> : Invoque des <span class=\"color-dark-red\">Zoatroïde</span> de manière régulière.</span><br><br>La P1 va se dérouler comme suit en héroïque : il y aura 3 <span class=\"color-yellow\">Ichor suintant</span> qui seront à chaque fois suivis par le pop des adds. L'interphase commence lors du 3ième pop d'add.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
                {
                   "CatName":"Interphase",
-                  "Text":"A la fin de la P1, le boss se barre dans la  deuxième salle. Pour le rejoindre, il suffit de parcourir un couloir en évitant 2 types d'aoe :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_oiljets.jpg\" /> <span class=\"color-yellow\">Biodégration</span> : Aoe qui bump les gens. Faire gaffe, on peut tomber dans le vide à gauche.<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_food_legion_wildfowlegg.jpg\" /> <span class=\"color-yellow\">Éclosion explosive</span> : Une Aoe autour des oeufs qui bump (gaffe au trou) et qui inflige des dégâts de nature.<br><br>Une fois au bout du couloir, le boss nous attend en castant un sort. Il faudra le decast le plus tard possible pour gagner un peu de temps.",
+                  "Text":"A la fin de la P1, le boss se barre dans la  deuxième salle. Pour le rejoindre, il suffit de parcourir un couloir en évitant 2 types d'aoe :<br><spell id='298526' icon='ability_vehicle_oiljets.jpg'>Biodégradation</spell> : Aoe qui bump les gens. Faire gaffe, on peut tomber dans le vide à gauche.<br><spell id='300308' icon='inv_misc_food_legion_wildfowlegg.jpg'>Éclosion explosive</spell> : Une Aoe autour des oeufs qui bump (gaffe au trou) et qui inflige des dégâts de nature.<br><br>Une fois au bout du couloir, le boss nous attend en castant un sort. Il faudra le decast le plus tard possible pour gagner un peu de temps.",
                   "Picture":"interphase.jpg",
 				  "Pos":"",
 				  "Legend":"Interphase"
@@ -372,35 +372,35 @@
                },
                {
                   "CatName":"",
-                  "Text":"<br>Les <span class=\"color-dark-red\">Myrmidon zanj'ir</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_polearm_2h_kthirrelic_d_01.jpg\" /> <span class=\"color-yellow\">Embrocher</span> : Inflige de lourds dégâts physiques au tank<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_impalingbolt.jpg\" /> <span class=\"color-yellow\"> Lance d'eau</span> : Tire sur un joueur une lance faisant des dégâts de nature et crée une zone aoe de nature au point d'impact qui ne disparait pas.",
+                  "Text":"<br>Les <span class=\"color-dark-red\">Myrmidon zanj'ir</span> :<br><spell id='295766' icon='inv_polearm_2h_kthirrelic_d_01.jpg'>Embrocher</spell> : Inflige de lourds dégâts physiques au tank<br><spell id='295779' icon='ability_impalingbolt.jpg'>Lance d'eau</spell> : Tire sur un joueur une lance faisant des dégâts de nature et crée une zone aoe de nature au point d'impact qui ne disparait pas.",
                   "Picture":"lance.jpg",
 				  "Pos":"left",
 				  "Legend":"Lance d'eau"
                },
                {
                   "CatName":"",
-                  "Text":"Les <span class=\"color-dark-red\">Sorcière azsh'ari</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_vehicle_electrocharge.jpg\" /> <span class=\"color-yellow\">Éclairs foudroyants</span> : Inflige des dégâts de nature à 3 raiders<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/inv_misc_stormlordsfavor.jpg\" /> <span class=\"color-yellow\"> Impulsion conductrice</span> : Stun le raid si non décast !<br><br>Les <span class=\"color-dark-red\">Mastodontes anneau-sinistre</span> :<br><img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warstomp.jpg\" /> <span class=\"color-yellow\"> Choc puissant</span> : Grosse aoe à soak",
+                  "Text":"Les <span class=\"color-dark-red\">Sorcière azsh'ari</span> :<br><spell id='295818' icon='ability_vehicle_electrocharge.jpg'>Éclairs foudroyants</spell> : Inflige des dégâts de nature à 3 raiders<br><spell id='295822' icon='inv_misc_stormlordsfavor.jpg'>Impulsion conductrice</spell> : Stun le raid si non décast !<br><br>Les <span class=\"color-dark-red\">Mastodontes anneau-sinistre</span> :<br><spell id='296691' icon='ability_warstomp.jpg'>Choc puissant</spell> : Grosse aoe à soak",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT TANK",
-                  "Text":"Switch avant d'avoir 10 stacks de <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_poisonsting.jpg\" /> <span class=\"color-yellow\">Piqûre insensibilisante</span><br>Soak tout ce qu'il y a à soak avec un maximum de stacks : <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_mage_waterjet.jpg\" /> <span class=\"color-yellow\">Projection amniotique</span> et <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_warstomp.jpg\" /> <span class=\"color-yellow\"> Choc puissant</span>.<br>Tankez les adds un peu éloigné du boss pour pas qu'ils se fassent buff par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/achievement_boss_orgozoa.jpg\" /> <span class=\"color-yellow\">Croissance chaotique</span>.<br>Claquez des cds defensifs au début lors que vous n'avez pas de stack.",
+                  "Text":"Switch avant d'avoir 10 stacks de <spell id='298156' icon='ability_poisonsting.jpg'>Piqûre insensibilisante</spell><br>Soak tout ce qu'il y a à soak avec un maximum de stacks : <spell id='298430' icon='ability_mage_waterjet.jpg'>Projection amniotique</spell> et <spell id='296691' icon='ability_warstomp.jpg'>Choc puissant</spell>.<br>Tankez les adds un peu éloigné du boss pour pas qu'ils se fassent buff par <spell id='304280' icon='achievement_boss_orgozoa.jpg'>Croissance chaotique</spell>.<br>Claquez des cds defensifs au début lors que vous n'avez pas de stack.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Tenez en vie les gens affectés par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span><br>Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
+                  "Text":"Tenez en vie les gens affectés par <spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell><br>Si vous êtes atteints par <spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Si vous êtes atteints par <img class=\"icon\" src=\"https://wow.zamimg.com/images/wow/icons/large/ability_shawaterelemental_swirl.jpg\" /> <span class=\"color-yellow\">Fluide d'incubation</span>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
+                  "Text":"Si vous êtes atteints par <spell id='298242' icon='ability_shawaterelemental_swirl.jpg'>Fluide d'incubation</spell>, éloignez du raid pour aller avec les autres atteints par ce débuff.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
