@@ -75,7 +75,7 @@
 			   {
                   "CatName":"STRAT COMMUNE",
                   "Text":"Le raid sera séparé en deux groupes comme le montre la première image et sera positionné vers le centre de la salle.<br>Toutes les zones au sol devront être positionnées au maximum sur les bords de la salle.<br>La gestion des éclairs se fera comme suit : la personne ciblée se décalera vers le centre de la salle et deux cacs de la marqué opposée intercepteront l'éclair (1 pour soak, 1 pour libérer son coéquipier).<br>Pour la gestion de l'<spell id='295791' icon='achievement_guildperk_quick-and-dead.jpg'>Inversion</spell>, on utilisera deux symboles, un au cac, l'autre pour les distances. Les poisons devront passer du côté avant de leur symbole et les givres du côté arrière. Cela évitera que les gens se croisent.",
-                  "Picture":"",
+                  "Picture":"position.jpg",
 				  "Pos":"",
 				  "Legend":""
                }
