@@ -209,28 +209,28 @@
                },
 			   {
                   "CatName":"STRAT TANK",
-                  "Text":"Un swap de tank devra être effectué régulièrement en P1 et les tanks devront gérer les adds en P2.<br>Être contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Text":"Un swap de tank devra être effectué à chaque <spell id='296566' icon='inv__fistofthewhitetiger.jpg'>Poing des flots</spell> en P1 et les tanks devront gérer les adds en P2.<br> Les <span class=\"color-dark-red\">Ame des tempêtes</span> doivent être tankés près du bord de l'oeil des cyclones.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT HEAL",
-                  "Text":"Les healers devront dispell les <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell> quand la personne sera isolée et avant que la bombe n'explose.<br>Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Text":"Les healers devront dispell les <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell> quand la personne sera isolée et avant que la bombe n'explose.<br>Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Soyez au cac de l'<span class=\"color-dark-red\">Ame des tempêtes</span> pour éviter d'être bump en  dehors de l'oeil du cyclone.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT DPS",
-                  "Text":"Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Focus l'<span class=\"color-dark-red\">Ame des tempêtes</span> sans négliger de réduire le nombre de <span class=\"color-dark-red\">Tourmentins</span><br>Soyez contre un mur en P2 pour éviter d'être bump en  dehors de l'oeil du cyclone.",
+                  "Text":"Restez éloignés des autres membres du raid et s'isoler si vous avez la <spell id='296746' icon='inv_enchant_essencearcanesmall.jpg'>Bombe des arcanes</spell>.<br>Focus l'<span class=\"color-dark-red\">Ame des tempêtes</span> sans négliger de réduire le nombre de <span class=\"color-dark-red\">Tourmentins</span><br>Soyez au cac de l'<span class=\"color-dark-red\">Ame des tempêtes</span> pour éviter d'être bump en  dehors de l'oeil du cyclone.",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
                },
 			   {
                   "CatName":"STRAT COMMUNE",
-                  "Text":"En P1, il faudra tourner autour du boss quand les tornades seront trop pénible.<br>Les bombes des arcanes doivent être dispell hors du raid.<br> En P2, chaque moitié du raid prendra un sens différent pour pouvoir trouver l'add le plus rapidement possible.<br>Un piège de vent doit être pris pour laisser un chemin disponible au raid.<br>Quand le gros add va faire son bump, le raid devra être, si possible, entre lui et un mur pour ne pas voler à l'autre bout de la salle. ",
+                  "Text":"Pendant le combat, le raid sera séparé en deux et positionné de part et d'autre du boss. En P1, il faudra tourner dans le sens horaires autour du boss quand les tornades seront trop pénible. L'important est que les deux groupes restent toujours en face l'un de l'autre.<br>Les bombes des arcanes doivent être dispell hors du raid. Pour la P1, mettez les bombes derrière vos mates. Pour la P2, mettez les sur les côtés (pour éviter au raid de se faire bump dans une bombe)<br>En P2, chaque moitié du raid continuera de tourner dans le même sens jusqu'à trouver son add le plus rapidement possible.<br>Les <span class=\"color-dark-red\">Tourmentins</span> inflignent de gros dégâts sur le raid. Ils peuvent être silence et stun donc n'hésitez pas.<br>Un seul piège de vent par groupe doit être pris pour laisser un chemin disponible au raid. Laissez le tank ouvrir la voie.<br> ",
                   "Picture":"",
 				  "Pos":"",
 				  "Legend":""
